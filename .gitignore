@@ -1,0 +1,7 @@
+node_modules
+
+# all txt files
+*.txt
+
+# all pdf files
+*.pdf
