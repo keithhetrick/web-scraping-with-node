@@ -31,10 +31,9 @@ const getJobsData = async () => {
           });
       }
     });
+    console.log("JOB RESULTS: ", jobs_results);
 
-    console.log(jobs_results);
-    // TXT file
-
+    // create .txt file
     jobs_results.forEach((job) => {
       fs.appendFile(
         "googleJobsResults.txt",
@@ -51,10 +50,9 @@ const getJobsData = async () => {
       );
     });
 
-    // PDF file
+    // create PDF file
     const doc = new PDFDocument();
-    // make folder and pdf name dynamic
-    // const path = "/";);
+
     const pdfName = "googleJobsResults.pdf";
     doc.pipe(fs.createWriteStream(pdfName));
     doc.fontSize(20).text("Google Jobs Results", {
@@ -92,7 +90,7 @@ const getJobsData = async () => {
 
     doc.end();
   } catch (e) {
-    console.log(e);
+    console.log("ERROR:", e);
   }
 };
 getJobsData();
