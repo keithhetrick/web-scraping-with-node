@@ -3,6 +3,12 @@ const axios = require("axios");
 const j2cp = require("json2csv").Parser;
 const fs = require("fs");
 
+// import the csvToJson function from cvsToJson.js to convert the created csv to json
+const csvToJson = require("./csvToJson");
+
+// call the csvToJson function
+csvToJson();
+
 // base url for pagination
 const baseUrl =
   "https://books.toscrape.com/catalogue/category/books/mystery_3/";
@@ -20,7 +26,18 @@ async function getBooks(url) {
     const $ = cheerio.load(response.data);
 
     const genre = $("h1").text();
-    console.log("GENRE: ", genre, "\n");
+    console.log(
+      "\n",
+      "=====================================================================================",
+      "\n",
+      "\n",
+      "GENRE: ",
+      genre,
+      "\n",
+      "\n",
+      "=====================================================================================",
+      "\n"
+    );
 
     const books = $("article");
     books.map((i, book) => {
@@ -53,3 +70,8 @@ async function getBooks(url) {
   }
 }
 getBooks(mystery);
+
+const someFunction = (param) => console.log("Welcome, your param is", param);
+
+// exporting is crucial
+module.exports = { someFunction };
