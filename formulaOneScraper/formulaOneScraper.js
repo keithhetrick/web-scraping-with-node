@@ -7,7 +7,7 @@ const fetch = (...args) =>
   import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
 async function getFormulaOneDrivers() {
-  console.log("Getting Formula One data...");
+  console.log("Getting Formula One data... \n");
 
   // ============================================================================= \\
   // ============================================================================= \\
@@ -23,42 +23,47 @@ async function getFormulaOneDrivers() {
   ];
 
   // go through each url and get the body of the page
-  const items = [];
+  const formula_One_Multi_Page_Data = [];
+
   for (let i = 0; i < urls.length; i++) {
     const url = urls[i];
     const response = await fetch(url);
     const body = await response.text();
+    console.log(
+      "BODY: ",
+      body,
+      "\n",
+      "===============================================================================================================================",
+      "\n"
+    );
 
-    // console.log("BODY: ", body);
-
-    // load the body into cheerio
+    // load body into cheerio
     const $ = cheerio.load(body);
 
-    // get the title
+    // get title
     const title = $("title").text();
 
-    // get the h1
+    // get h1
     const h1 = $("h1").text();
 
-    // get the latest news
+    // get latest news
     const latestNews = $(".f1-race-hub--latest").text();
 
-    // get the latest videos
+    // get latest videos
     const latestVideos = $(".f1-race-hub--latest-videos").text();
 
-    // get the latest driver updates
+    // get latest driver updates
     const latestDriverMarket = $(
       ".f1-race-hub--latest-interviews-features"
     ).text();
-    // console.log("DIV: ", div, "\n", "====================================");
 
-    // cleans up & removes extra lines and spaces
+    // clean up & remove extra lines and spaces
     const regex = /(\r\n|\n|\r)/gm;
     const cleanLatestNews = latestNews.replace(regex, "");
     const cleanLatestVideos = latestVideos.replace(regex, "");
     const cleanLatestDriverMarket = latestDriverMarket.replace(regex, "");
 
-    items.push({
+    formula_One_Multi_Page_Data.push({
       url,
       title,
       h1,
@@ -68,9 +73,17 @@ async function getFormulaOneDrivers() {
     });
   }
 
-  // console.log("ITEMS: ", items, "\n", "====================================");
+  console.log(
+    "MULTI PAGE DATA: ",
+    formula_One_Multi_Page_Data,
+    "\n",
+    "\n",
+    "===============================================================================================================================",
+    // "\n",
+    "\n"
+  );
 
-  // saves as new json file
+  // create json file
   const multi_Page_JSON_file_path = "./";
   const multi_Page_JSON_file_name = "formulaOneData.json";
   const multi_Page_JSON_fullFile_Name =
@@ -78,11 +91,14 @@ async function getFormulaOneDrivers() {
 
   fs.writeFile(
     multi_Page_JSON_fullFile_Name,
-    JSON.stringify(items),
+    JSON.stringify(formula_One_Multi_Page_Data),
     function (err) {
       if (err) throw err;
       console.log(
-        `Formula One data saved to "${multi_Page_JSON_fullFile_Name}"!`
+        `Formula One data saved to "${multi_Page_JSON_fullFile_Name}"!`,
+        "\n",
+        "\n",
+        "==============================================================================================================================="
       );
     }
   );
@@ -100,7 +116,7 @@ async function getFormulaOneDrivers() {
     align: "center",
   });
 
-  items.forEach((item) => {
+  formula_One_Multi_Page_Data.forEach((page) => {
     doc
       .fontSize(12)
       .text(
@@ -110,34 +126,34 @@ async function getFormulaOneDrivers() {
           width: 500,
         }
       );
-    doc.fontSize(12).text(`Url: ${item.url}`, {
+    doc.fontSize(12).text(`Url: ${page.url}`, {
       align: "left",
       width: 500,
     });
-    doc.fontSize(12).text(`Title: ${item.title}`, {
+    doc.fontSize(12).text(`Title: ${page.title}`, {
       align: "left",
       width: 500,
     });
-    doc.fontSize(12).text(`H1: ${item.h1}`, {
+    doc.fontSize(12).text(`H1: ${page.h1}`, {
       align: "left",
       width: 500,
     });
     doc
       .fontSize(12)
-      .text(`Latest News (from "${item.url}"): ${item.cleanLatestNews}`, {
+      .text(`Latest News (from "${page.url}"): ${page.cleanLatestNews}`, {
         align: "left",
         width: 500,
       });
     doc
       .fontSize(12)
-      .text(`Latest Videos (from "${item.url}"): ${item.cleanLatestVideos}`, {
+      .text(`Latest Videos (from "${page.url}"): ${page.cleanLatestVideos}`, {
         align: "left",
         width: 500,
       });
     doc
       .fontSize(12)
       .text(
-        `Latest Driver Market (from "${item.url}"): ${item.cleanLatestDriverMarket}`,
+        `Latest Driver Market (from "${page.url}"): ${page.cleanLatestDriverMarket}`,
         {
           align: "left",
           width: 500,
@@ -155,7 +171,10 @@ async function getFormulaOneDrivers() {
   });
 
   doc.end();
-  console.log(`Formula One data saved to "${multi_Page_PDF_FullFile_Name}"!`);
+  console.log(
+    `Formula One data saved to "${multi_Page_PDF_FullFile_Name}"!`,
+    "\n"
+  );
 
   // ============================================================================= //
   // ============================================================================= //
@@ -170,7 +189,15 @@ async function getFormulaOneDrivers() {
 
   // check size of class count
   const wrapper = $(".listing-items--wrapper");
-  console.log("WRAPPER COUNT: ", wrapper.length);
+  console.log(
+    "\n",
+    "WRAPPER COUNT: ",
+    wrapper.length,
+    "\n",
+    "\n",
+    "===============================================================================================================================",
+    "\n"
+  );
 
   const driverData = [];
 
@@ -188,13 +215,13 @@ async function getFormulaOneDrivers() {
     const firstName = $(el).find(".listing-item--name span:first").text();
     const lastName = $(el).find(".listing-item--name span:last").text();
     const fullDriverName = firstName + " " + lastName;
-    console.log("FULL NAME: ", fullDriverName);
+    console.log("FULL NAME: ", fullDriverName, "\n");
 
     const team = $(el).find(".listing-item--team").text();
-    console.log("TEAM: ", team);
+    console.log("TEAM: ", team, "\n");
 
     const photo = $(el).find(".listing-item--photo img").attr("data-src");
-    console.log("PHOTO: ", photo);
+    console.log("PHOTO: ", photo, "\n");
 
     driverData.push({
       // rank,
@@ -205,9 +232,19 @@ async function getFormulaOneDrivers() {
     });
   });
 
-  console.log("DRIVER DATA: ", driverData);
+  console.log(
+    "===============================================================================================================================",
+    "\n",
+    "\n",
+    "DRIVER DATA: ",
+    driverData,
+    "\n",
+    "\n",
+    "===============================================================================================================================",
+    "\n"
+  );
 
-  // saves as new json file
+  // create json file
   const single_Page_JSON_File_path = "./";
   const single_Page_JSON_File_name = "formulaOneDriverData.json";
   const single_Page_JSON_FullFile_Name =
@@ -219,7 +256,10 @@ async function getFormulaOneDrivers() {
     function (err) {
       if (err) throw err;
       console.log(
-        `Formula One Driver data saved to "${single_Page_JSON_FullFile_Name}"!`
+        `Formula One Driver data saved to "${single_Page_JSON_FullFile_Name}"!`,
+        "\n",
+        "\n",
+        "==============================================================================================================================="
       );
     }
   );
@@ -278,7 +318,8 @@ async function getFormulaOneDrivers() {
 
   doc.end();
   console.log(
-    `Formula One Driver data saved to "${single_Page_PDF_FullFile_Name}"!`
+    `Formula One Driver data saved to "${single_Page_PDF_FullFile_Name}"!`,
+    "\n"
   );
 
   try {
