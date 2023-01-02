@@ -8,9 +8,30 @@ const fetch = (...args) =>
 async function getFormulaOneDrivers() {
   console.log("Getting Formula One Drivers...");
 
-  const response = await fetch("https://www.formula1.com/en/drivers.html");
+  const urls = [
+    "https://www.formula1.com/en/latest.html",
+    "https://www.formula1.com/en/results.html/2022/drivers.html",
+    "https://www.formula1.com/en/results.html/2022/team.html",
+  ];
+
+  const url = "https://www.formula1.com/en/drivers.html";
+
+  const response = await fetch(url);
   const body = await response.text();
   const $ = cheerio.load(body);
+
+  // go through each url and get the body of the page
+  const promises = urls.map(async (url) => {
+    const response = await fetch(url);
+    const body = await response.text();
+    return body;
+  });
+
+  const bodies = await Promise.all(promises);
+
+  bodies.map((body) => {
+    console.log("BODY: ", body);
+  });
 
   // ============================================================================= \\
   // ============================================================================= \\
