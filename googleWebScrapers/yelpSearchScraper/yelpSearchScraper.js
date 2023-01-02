@@ -1,5 +1,6 @@
 const unirest = require("unirest");
 const cheerio = require("cheerio");
+const fs = require("fs");
 
 const getData = async () => {
   let url =
@@ -89,9 +90,7 @@ const getData = async () => {
 
   console.log(results);
 
-  // create json file, and map through results data more readable in .txt file by separating all avaliable data points with a new line
-  const fs = require("fs");
-
+  // write results to a json file
   fs.writeFile(
     "yelpSearchResults.json",
     JSON.stringify(results, null, 2),
@@ -101,11 +100,13 @@ const getData = async () => {
     }
   );
 
-  let file_path = "./";
-  let file_name = "yelpSearchResults.txt";
+  // write results to a txt file
+  const file_path = "./";
+  const file_name = "yelpSearchResults.txt";
+  const fullFile_Name = file_path + file_name;
 
   fs.writeFile(
-    file_path + file_name,
+    fullFile_Name,
     results
       // if any data points are missing, undefined or null they will be replaced with an empty string
       .map((result) => {
@@ -156,11 +157,8 @@ const getData = async () => {
       // join all data points into a single string
       .join(""),
     (err) => {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log("File Created");
-      }
+      if (err) throw err;
+      console.log(`File Created at ${fullFile_Name}`);
     }
   );
 };

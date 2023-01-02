@@ -1,4 +1,5 @@
 const cheerio = require("cheerio");
+const fs = require("fs");
 
 // work-around for "require" syntax from node-fetch";
 const fetch = (...args) =>
@@ -11,17 +12,59 @@ async function getFormulaOneDrivers() {
   const body = await response.text();
   const $ = cheerio.load(body);
 
-  // const wrapper = $(".listing-items--wrapper");
-  // console.log("WRAPPER: ", wrapper.length);
+  // ============================================================================= \\
+  // ============================================================================= \\
+  // - - - - - - - - - - - C O R E    L O G I C    S T A R T - - - - - - - - - - - ||
+  // ============================================================================= //
+  // ============================================================================= //
+
+  // check size of class count
+  const wrapper = $(".listing-items--wrapper");
+  console.log("WRAPPER COUNT: ", wrapper.length);
 
   const items = [];
 
-  $(
-    ".listing-items--wrapper > .row > .col-12 > .listing-item--link > .listing-item--border > .container > .listing-item--head > .listing-item--name"
-  ).map((i, el) => {
-    // insert space after first word
-    const name = $(el).find(".f1-color--carbonBlack").text();
-    console.log("NAME: ", name);
+  $(".listing-items--wrapper > .row > .col-12").map((i, el) => {
+    // ================================================================ \\
+    // ---- DATA ISN'T AVAILABLE OFF SEASON, SO IT'S COMMENTED OUT ---- \\
+
+    // const rank = $(el).find(".rank").text();
+    // console.log("RANK: ", rank);
+
+    // const points = $(el).find(".points > .f1-wide--s").text();
+    // console.log("POINTS: ", points);
+    // ================================================================ //
+
+    const firstName = $(el).find(".listing-item--name span:first").text();
+    const lastName = $(el).find(".listing-item--name span:last").text();
+    const fullDriverName = firstName + " " + lastName;
+    console.log("FULL NAME: ", fullDriverName);
+
+    const team = $(el).find(".listing-item--team").text();
+    console.log("TEAM: ", team);
+
+    const photo = $(el).find(".listing-item--photo img").attr("data-src");
+    console.log("PHOTO: ", photo);
+
+    items.push({
+      // rank,
+      // points,
+      fullDriverName,
+      team,
+      photo,
+    });
+  });
+
+  console.log("ITEMS: ", items);
+
+  // saves as new json file in the same directory
+  const file_path = "./";
+  const file_name = "formulaOne.json";
+  const fullFile_Name = file_path + file_name;
+
+  fs.writeFile(fullFile_Name, JSON.stringify(items), function (err) {
+    if (err) throw err;
+    console.log(`Formula One data saved to "${fullFile_Name}"!`);
   });
 
   try {
