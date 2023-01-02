@@ -20,7 +20,7 @@ async function getBooks(url) {
     const $ = cheerio.load(response.data);
 
     const genre = $("h1").text();
-    console.log("GENRE: ", genre);
+    console.log("GENRE: ", genre, "\n");
 
     const books = $("article");
     books.map((i, book) => {
@@ -31,24 +31,25 @@ async function getBooks(url) {
       book_data.push({ title, price, stock });
     });
 
+    // this is where the next page url comes in to effect
     if ($(".next a").length > 0) {
       next_page = baseUrl + $(".next a").attr("href");
+
       getBooks(next_page);
     } else {
       // create csv file
-      const csv_File_path = "./";
-      const csv_File_name = "books.csv";
-      const csv_FullFile_Name = csv_File_path + csv_File_name;
+      const csv_File_Path = "./";
+      const csv_File_Name = "books.csv";
+      const csv_FullFile_Name = csv_File_Path + csv_File_Name;
 
       const parser = new j2cp();
       const csv = parser.parse(book_data);
       fs.writeFileSync(csv_FullFile_Name, csv, "utf-8");
     }
 
-    console.log("BOOKS: ", book_data);
+    console.log("BOOKS: ", book_data, "\n");
   } catch (err) {
     console.log("ERROR: ", err);
   }
 }
-// call getBooks function
 getBooks(mystery);
