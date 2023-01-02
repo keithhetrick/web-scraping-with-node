@@ -31,7 +31,7 @@ async function getBooks(url) {
       book_data.push({ title, price, stock });
     });
 
-    // this is where the next page url comes in to effect
+    // this is where pagination happens
     if ($(".next a").length > 0) {
       next_page = baseUrl + $(".next a").attr("href");
 
