@@ -6,7 +6,7 @@ const PDFDocument = require("pdfkit");
 const getJobsData = async () => {
   try {
     const url =
-      "https://www.google.com/search?q=javascript+developer+in+tennessee&ibp=htl;jobs&hl=en";
+      "https://www.google.com/search?q=javascript+developer+in+nashville&ibp=htl;jobs&hl=en";
 
     const response = await unirest.get(url).headers({
       "User-Agent":
@@ -15,7 +15,7 @@ const getJobsData = async () => {
     let $ = cheerio.load(response.body);
 
     let jobs_results = [];
-    $(".iFjolb").each((i, el) => {
+    $(".iFjolb").map((i, el) => {
       jobs_results.push({
         title: $(el).find(".PUpOsf").text(),
         company_name: $(el).find(".vNEEBe").text(),
