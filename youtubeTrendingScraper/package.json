@@ -1,0 +1,21 @@
+{
+  "name": "youtubetrendingscraper",
+  "version": "1.0.0",
+  "main": "youtubeTrendingScraper.js",
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "description": "A simple scraper for YouTube's trending page by country & category.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "trending",
+    "scraper"
+  ],
+  "dependencies": {
+    "@freetube/yt-trending-scraper": "^3.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}

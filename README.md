@@ -5,13 +5,17 @@
 Web Scrapers built using:
 
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
 - [Cheerio](https://cheerio.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Node-Fetch](https://www.npmjs.com/package/node-fetch)
 - [Unirest](https://www.npmjs.com/package/unirest)
 - [Got-Scraping](https://www.npmjs.com/package/got-scraping)
 - [Crawlee](https://www.npmjs.com/package/crawlee)
 - [Puppeteer](https://www.npmjs.com/package/puppeteer)
 - [Playwright](https://www.npmjs.com/package/playwright)
+- [EJS](https://www.npmjs.com/package/ejs)
+- [yt-trending-scraper](https://www.npmjs.com/package/yt-trending-scraper)
 - [PDFKit](https://www.npmjs.com/package/pdfkit)
 - [Json2Csv](https://www.npmjs.com/package/json2csv)
 - [CsvToJson](https://www.npmjs.com/package/csvtojson)
@@ -30,17 +34,17 @@ Web Scrapers built using:
 ### **Hacker News Scraper _(Node.js, Cheerio, Got-Scraping, Crawlee, Docker)_**
 
 - Version 1: _Scrapes the website for the latest news._
-- Version 2: _The **CheerioCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
+- Version 2: _The **CheerioCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: false"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
 
 ### **Product Scraper _(Node.js, Cheerio, Playwright, Crawlee, Docker)_**
 
 - Version 1: _Scrapes a website for a specific product & takes a screenshot of the webpage. Code is currently set for mintmobile.com._
-- Version 2: _The **PlaywrightCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
+- Version 2: _The **PlaywrightCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: false"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
 
 ### **Amazon Scraper _(Node.js, Cheerio, Puppeteer, Playwright)_**
 
 - Version 1: _Scrapes Amazon for a specific product & takes a screenshot of the webpage._
-- Version 2: _The **Playwright** version is similar, but since **Playwright** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated._
+- Version 2: _The **Playwright** version is similar, but since **Playwright** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: false"`, so the designated browser opens & the whole program runs as automated._
 
 ### **Yelp Scraper _(Node.js, Cheerio, Unirest)_**
 
@@ -61,6 +65,10 @@ Web Scrapers built using:
 ### **Website Image Scraper _(Node.js, Puppeteer)_**
 
 - _Scrapes a website for all of its images, and downloads them to a local folder._
+
+### Youtube Trending Scraper _(Node.js, Express, yt-trending-scraper, EJS)_
+
+- _Scrapes YouTube for the latest trending videos by country & category._
 
 # License
 
