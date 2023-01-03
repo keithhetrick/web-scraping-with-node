@@ -1,6 +1,6 @@
 # web-scraping-with-node
 
-## A collection of web scraping projects using Node.js & their corresponding technologies:
+## A collection of web scraping projects using Node.js & their corresponding technologies.
 
 ### **Formula One Scraper _(Node.js, Cheerio, Node-Fetch, PDFKit)_**
 
@@ -10,18 +10,20 @@
 
 - _Scrapes the website for the latest books, converts the scraped data into a CSV file & saves it to a local folder._
 
-### **Hacker News Scraper _(Node.js, Cheerio, Got-Scraping, Playwright, Puppeteer, Crawlee, Docker)_**
+### **Hacker News Scraper _(Node.js, Cheerio, Got-Scraping, Crawlee, Docker)_**
 
-- _Scrapes the website for the latest news._
+- Version 1: _Scrapes the website for the latest news._
+- Version 2: _The **CheerioCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
+
+### **Product Scraper _(Node.js, Cheerio, Playwright, Crawlee, Docker)_**
+
+- Version 1: _Scrapes a website for a specific product & takes a screenshot of the webpage. Code is currently set for mintmobile.com._
+- Version 2: _The **PlaywrightCrawler** version using **Crawlee** is similar, but since **Crawlee** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated. Also, any & all Datasets are stored in a storage folder in the root directory, & containerized using **Docker**._
 
 ### **Amazon Scraper _(Node.js, Cheerio, Puppeteer, Playwright)_**
 
-- _Scrapes Amazon for a specific product & takes a screenshot of the webpage._
-- _The **Playwright** version similar, but since Playwright "simulates" the actions of a real user, the browser settings are defaulted to "headless: true", so the designated browser opens & the whole program runs as automated._
-
-### **Product Scraper _(Node.js, Cheerio, Puppeteer, Playwright)_**
-
-- _Scrapes a website for a specific product & takes a screenshot of the webpage. Code is currently set for mintmobile.com._
+- Version 1: _Scrapes Amazon for a specific product & takes a screenshot of the webpage._
+- Version 2: _The **Playwright** version is similar, but since **Playwright** "simulates" the actions of a real user, the browser settings are defaulted to `"headless: true"`, so the designated browser opens & the whole program runs as automated._
 
 ### **Yelp Scraper _(Node.js, Cheerio, Unirest)_**
 
