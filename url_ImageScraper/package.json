@@ -1,12 +1,17 @@
 {
   "name": "urlimagescraper",
   "version": "1.0.0",
-  "description": "",
-  "main": "url_ImageScraper.js",
+  "description": "A simple script to scrape images from a url.",
+  "main": "getImagesFromUrl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "url",
+    "images",
+    "scraper",
+    "puppeteer"
+  ],
   "author": "Keith Hetrick",
   "license": "ISC",
   "dependencies": {

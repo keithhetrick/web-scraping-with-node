@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/keithhetrick/web-scraping-with-node.git"
   },
-  "keywords": [],
+  "keywords": [
+    "web scraping",
+    "node.js",
+    "cheerio",
+    "axios",
+    "json2csv",
+    "csvtojson"
+  ],
   "author": "Keith Hetrick",
   "license": "ISC",
   "bugs": {

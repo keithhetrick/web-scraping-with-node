@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "web scraper",
+    "node.js",
+    "cheerio",
+    "node-fetch",
+    "pdfkit"
+  ],
   "author": "Keith Hetrick",
   "license": "ISC",
   "dependencies": {

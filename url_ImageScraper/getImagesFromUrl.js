@@ -5,7 +5,7 @@ const path = require("path");
 // url to scrape
 const url = "https://www.nasa.gov/multimedia/imagegallery/iotd.html";
 
-(async () => {
+async function getImagesFromUrl() {
   const browser = await puppeteer.launch({
     // open chromium browser in headless mode, comment out if not needed
     headless: false,
@@ -70,4 +70,5 @@ const url = "https://www.nasa.gov/multimedia/imagegallery/iotd.html";
   });
   await page.goto(url);
   await browser.close();
-})();
+}
+getImagesFromUrl();
