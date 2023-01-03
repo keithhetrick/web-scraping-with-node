@@ -13,7 +13,9 @@ node_modules
 # all csv files
 *.csv
 
-# all jpg files, png files, gif files
+# all jpg files, jpeg files, png files, gif files, svg files
+*.jpeg
 *.jpg
 *.png
 *.gif
+*.svg
