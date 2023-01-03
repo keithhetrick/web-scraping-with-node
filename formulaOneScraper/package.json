@@ -1,0 +1,17 @@
+{
+  "name": "formulaonescraper",
+  "version": "1.0.0",
+  "description": "Web scraper project using Node.js, Cheerio, Node-Fetch & PDFKit (to convert scraped data into a usable, readable PDF file).",
+  "main": "formulaOneScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.0",
+    "pdfkit": "^0.13.0"
+  }
+}

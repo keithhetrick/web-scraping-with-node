@@ -1,0 +1,26 @@
+{
+  "name": "web-scraping-with-node",
+  "version": "1.0.0",
+  "description": "Web scraper using Node.js, Cheerio, Axios, & json2csv (to convert scraped data into a usable, readable CSV file).",
+  "main": "bookScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithhetrick/web-scraping-with-node.git"
+  },
+  "keywords": [],
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithhetrick/web-scraping-with-node/issues"
+  },
+  "homepage": "https://github.com/keithhetrick/web-scraping-with-node#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.7"
+  }
+}
