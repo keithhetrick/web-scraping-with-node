@@ -1,0 +1,35 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "A collection of web scraping projects using Node.js",
+  "main": "news-scraper.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithhetrick/web-scraping-with-node.git"
+  },
+  "keywords": [
+    "web scraping",
+    "node.js",
+    "puppeteer",
+    "cheerio",
+    "playwright",
+    "got-scraping",
+    "crawlee"
+  ],
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithhetrick/web-scraping-with-node/issues"
+  },
+  "homepage": "https://github.com/keithhetrick/web-scraping-with-node#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "got-scraping": "^3.2.12",
+    "playwright": "^1.29.1",
+    "puppeteer": "^19.4.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}

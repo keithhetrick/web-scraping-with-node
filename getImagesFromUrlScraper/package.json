@@ -1,7 +1,7 @@
 {
   "name": "urlimagescraper",
   "version": "1.0.0",
-  "description": "A simple script to scrape images from a url, and adds them to a pdf.",
+  "description": "A simple script to scrape images from a url.",
   "main": "getImagesFromUrlScraper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,15 +10,11 @@
     "url",
     "images",
     "scraper",
-    "puppeteer",
-    "pdfkit",
-    "image-to-pdf"
+    "puppeteer"
   ],
   "author": "Keith Hetrick",
   "license": "ISC",
   "dependencies": {
-    "image-to-pdf": "^2.0.0",
-    "pdfkit": "^0.13.0",
     "puppeteer": "^19.4.1"
   }
 }

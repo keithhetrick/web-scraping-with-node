@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# ignore tests folders and test files
+/tests/
+/*.test.js
+/*.test.ts
+/*.test.jsx
+/*.test.tsx
