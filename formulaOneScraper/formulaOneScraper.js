@@ -83,10 +83,10 @@ async function getFormulaOneDrivers() {
   );
 
   // create json file
-  const multi_Page_JSON_file_path = "./";
-  const multi_Page_JSON_file_name = "formulaOneData.json";
+  const multi_Page_JSON_file_Path = "./";
+  const multi_Page_JSON_file_Name = "formulaOneData.json";
   const multi_Page_JSON_fullFile_Name =
-    multi_Page_JSON_file_path + multi_Page_JSON_file_name;
+    multi_Page_JSON_file_Path + multi_Page_JSON_file_Name;
 
   fs.writeFile(
     multi_Page_JSON_fullFile_Name,
@@ -105,10 +105,10 @@ async function getFormulaOneDrivers() {
   // create PDF file
   const doc = new PDFDocument();
 
-  const multi_Page_PDF_File_path = "./";
-  const multi_Page_PDF_File_name = "formulaOneData.pdf";
+  const multi_Page_PDF_File_Path = "./";
+  const multi_Page_PDF_File_Name = "formulaOneData.pdf";
   const multi_Page_PDF_FullFile_Name =
-    multi_Page_PDF_File_path + multi_Page_PDF_File_name;
+    multi_Page_PDF_File_Path + multi_Page_PDF_File_Name;
 
   doc.pipe(fs.createWriteStream(multi_Page_PDF_FullFile_Name));
   doc.fontSize(20).text("Formula One Data", {
@@ -244,10 +244,10 @@ async function getFormulaOneDrivers() {
   );
 
   // create json file
-  const single_Page_JSON_File_path = "./";
-  const single_Page_JSON_File_name = "formulaOneDriverData.json";
+  const single_Page_JSON_File_Path = "./";
+  const single_Page_JSON_File_Name = "formulaOneDriverData.json";
   const single_Page_JSON_FullFile_Name =
-    single_Page_JSON_File_path + single_Page_JSON_File_name;
+    single_Page_JSON_File_Path + single_Page_JSON_File_Name;
 
   fs.writeFile(
     single_Page_JSON_FullFile_Name,
@@ -264,10 +264,10 @@ async function getFormulaOneDrivers() {
   );
 
   // create PDF file
-  const single_Page_PDF_File_path = "./";
-  const single_Page_PDF_File_name = "formulaOneDriverData.pdf";
+  const single_Page_PDF_File_Path = "./";
+  const single_Page_PDF_File_Name = "formulaOneDriverData.pdf";
   const single_Page_PDF_FullFile_Name =
-    single_Page_PDF_File_path + single_Page_PDF_File_name;
+    single_Page_PDF_File_Path + single_Page_PDF_File_Name;
 
   doc.pipe(fs.createWriteStream(single_Page_PDF_FullFile_Name));
   doc.fontSize(20).text("Formula One Driver Data", {
