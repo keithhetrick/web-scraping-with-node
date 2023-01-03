@@ -11,6 +11,7 @@ Web Scrapers built using:
 - [Node-Fetch](https://www.npmjs.com/package/node-fetch)
 - [Unirest](https://www.npmjs.com/package/unirest)
 - [Got-Scraping](https://www.npmjs.com/package/got-scraping)
+- [Node-Cron](https://www.npmjs.com/package/node-cron)
 - [Crawlee](https://www.npmjs.com/package/crawlee)
 - [Puppeteer](https://www.npmjs.com/package/puppeteer)
 - [Playwright](https://www.npmjs.com/package/playwright)
@@ -66,9 +67,13 @@ Web Scrapers built using:
 
 - _Scrapes a website for all of its images, and downloads them to a local folder._
 
-### Youtube Trending Scraper _(Node.js, Express, yt-trending-scraper, EJS)_
+### **Youtube Trending Scraper _(Node.js, Express, yt-trending-scraper, EJS)_**
 
 - _Scrapes YouTube for the latest trending videos by country & category._
+
+### **Multiple Website Scraper _(Node.js, Puppeteer, Node-Cron)_**
+
+- _Scrapes multiple websites for images, texts, can perform operations such as button clicking, form submission, as well as saves the scraped data to a local folder. Can also be automated using **Node-Cron**._
 
 # License
 

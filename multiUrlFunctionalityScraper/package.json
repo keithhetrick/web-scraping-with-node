@@ -1,0 +1,20 @@
+{
+  "name": "multiurlfunctionalityscraper",
+  "version": "1.0.0",
+  "description": "This is a scraper that can scrape multiple urls and save locally. It can also run on a cron job.",
+  "main": "multiUrlFunctionalityScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "node-cron"
+  ],
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "puppeteer": "^19.4.1"
+  }
+}
