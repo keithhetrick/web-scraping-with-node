@@ -2,6 +2,23 @@
 
 ## A collection of web scraping projects using Node.js & their corresponding technologies.
 
+Web Scrapers built using:
+
+- [Node.js](https://nodejs.org/en/)
+- [Cheerio](https://cheerio.js.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Unirest](https://www.npmjs.com/package/unirest)
+- [Got-Scraping](https://www.npmjs.com/package/got-scraping)
+- [Crawlee](https://www.npmjs.com/package/crawlee)
+- [Puppeteer](https://www.npmjs.com/package/puppeteer)
+- [Playwright](https://www.npmjs.com/package/playwright)
+- [PDFKit](https://www.npmjs.com/package/pdfkit)
+- [Json2Csv](https://www.npmjs.com/package/json2csv)
+- [CsvToJson](https://www.npmjs.com/package/csvtojson)
+- [Docker](https://www.docker.com/)
+
+# Table of Contents
+
 ### **Formula One Scraper _(Node.js, Cheerio, Node-Fetch, PDFKit)_**
 
 - _Scrapes the Formula One website for the latest news, results,standings, converts the scraped data into a PDF file, and saves it to a local folder._
@@ -44,3 +61,11 @@
 ### **Website Image Scraper _(Node.js, Puppeteer)_**
 
 - _Scrapes a website for all of its images, and downloads them to a local folder._
+
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# Author
+
+[**@keithhetrick**](https://en.wikipedia.org/wiki/Keith_Hetrick)
