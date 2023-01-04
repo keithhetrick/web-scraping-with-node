@@ -1,0 +1,19 @@
+{
+  "name": "medium-automate-proj",
+  "version": "1.0.0",
+  "description": "Automate Medium (the website) Web scraping with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Medium",
+    "Automation"
+  ],
+  "author": "Keith Hetrick",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
