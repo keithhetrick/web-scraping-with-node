@@ -8,8 +8,6 @@ const urlMain = "https://medium.com";
     headless: true,
   });
   const page = await browser.newPage();
-
-  // SCREENSHOT
   await page.goto(urlMain);
 
   // LOGIN - LINK ONLY VALID FOR 20 MINUTES // NO LONGER ACTIVE
@@ -30,6 +28,13 @@ const urlMain = "https://medium.com";
   await page.waitFor(6000);
   await page.click('button[data-action="republish"]');
 
-  await page.screenshot({ path: "medium.png" });
+  // SCREENSHOT
+
+  // path to screenshot
+  const file_Name = "medium.png";
+  const path = "./screenshots/";
+  const full_FileName = path + file_Name;
+
+  await page.screenshot({ path: full_FileName });
   await browser.close();
 })();
