@@ -8,6 +8,10 @@ Web Scrapers built using:
 - [Express](https://expressjs.com/)
 - [Cheerio](https://cheerio.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [File System (fs)](https://nodejs.org/api/fs.html)
+- [Path](https://nodejs.org/api/path.html)
+- [PM2 Process Management (daemon process manager)](https://pm2.keymetrics.io/)
 - [Node-Fetch](https://www.npmjs.com/package/node-fetch)
 - [Unirest](https://www.npmjs.com/package/unirest)
 - [Got-Scraping](https://www.npmjs.com/package/got-scraping)
@@ -57,7 +61,7 @@ Web Scrapers built using:
 
 ### **Google Jobs Scraper _(Node.js, Cheerio, Unirest, PDFKit)_**
 
-- _Scrapes Google for the latest jobs in an area, and converts the scraped data into a PDF file in a local folder._
+- _Running as a background app via [PM2 (Process Management)](https://pm2.keymetrics.io/), Job scrapers scrapes Google for the latest jobs in an specific area, converts the scraped data into a PDF file, saves to a local folder, & uploaded/sent as an email via custom-made [Email Sender App](https://github.com/keithhetrick/nodemailer-project)._
 
 ### **Google Images Scraper _(Node.js, Cheerio, Unirest)_**
 

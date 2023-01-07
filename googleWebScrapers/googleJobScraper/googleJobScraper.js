@@ -1,7 +1,12 @@
+require("dotenv").config();
+
 const cheerio = require("cheerio");
 const unirest = require("unirest");
+const cron = require("node-cron");
 const fs = require("fs");
 const PDFDocument = require("pdfkit");
+
+const LOCAL_PATH = process.env.LOCAL_PATH;
 
 const getJobsData = async () => {
   try {
@@ -53,12 +58,10 @@ const getJobsData = async () => {
     // create PDF file
     const doc = new PDFDocument();
 
-    const file_Name = "dailyJobScraper.pdf";
-    const file_Path = "../../../web-scraper-test-2/";
+    const file_Name = `dailyJobScraper-${new Date().getTime()}.pdf`;
+    const file_Path = LOCAL_PATH;
 
-    // path.resolve('joe.txt'); // '/Users/joe/joe.txt' if run from my home folder
-
-    // clean file name to elimiate colons, spaces & commas in the file name
+    // sanitize file name
     const full_FileName = (file_Path + file_Name)
       .replace(/:/g, "-")
       .replace(/,/g, "-")
@@ -102,8 +105,20 @@ const getJobsData = async () => {
     });
 
     doc.end();
+    console.log(
+      "\nPDF file created successfully! Saved to designated path for emailer app.\n"
+    );
   } catch (e) {
     console.log("ERROR:", e);
   }
 };
 getJobsData();
+
+// ======================================================== \\
+// ================== CRON SCHEDULER ====================== ||
+// ======================================================== //
+
+cron.schedule("0 8 * * *", getJobsData, {
+  scheduled: true,
+  timezone: "America/Chicago",
+});
