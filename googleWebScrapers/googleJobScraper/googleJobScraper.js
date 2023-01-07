@@ -34,28 +34,41 @@ const getJobsData = async () => {
     console.log("JOB RESULTS: ", jobs_results);
 
     // create .txt file
-    jobs_results.forEach((job) => {
-      fs.appendFile(
-        "googleJobsResults.txt",
-        `\n Title: ${job.title}
-        Company Name: ${job.company_name}
-        Location: ${job.location}
-        Via: ${job.via}
-        Extensions: ${job.extensions}
-        `,
-        (err) => {
-          if (err) throw err;
-          console.log("Saved!");
-        }
-      );
-    });
+    // jobs_results.forEach((job) => {
+    //   fs.appendFile(
+    //     "googleJobsResults.txt",
+    //     `\n Title: ${job.title}
+    //     Company Name: ${job.company_name}
+    //     Location: ${job.location}
+    //     Via: ${job.via}
+    //     Extensions: ${job.extensions}
+    //     `,
+    //     (err) => {
+    //       if (err) throw err;
+    //       console.log("Saved!");
+    //     }
+    //   );
+    // });
 
     // create PDF file
     const doc = new PDFDocument();
 
-    const pdfName = "googleJobsResults.pdf";
-    doc.pipe(fs.createWriteStream(pdfName));
+    const file_Name = "dailyJobScraper.pdf";
+    const file_Path = "../../../web-scraper-test-2/";
+
+    // path.resolve('joe.txt'); // '/Users/joe/joe.txt' if run from my home folder
+
+    // clean file name to elimiate colons, spaces & commas in the file name
+    const full_FileName = (file_Path + file_Name)
+      .replace(/:/g, "-")
+      .replace(/,/g, "-")
+      .replace(/ /g, "-");
+
+    doc.pipe(fs.createWriteStream(full_FileName));
     doc.fontSize(20).text("Google Jobs Results", {
+      align: "center",
+    });
+    doc.fontSize(12).text(`${new Date().toLocaleString()}`, {
       align: "center",
     });
 

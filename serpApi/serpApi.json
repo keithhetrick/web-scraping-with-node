@@ -1,0 +1,4312 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14,
+    "credits_used_this_request": 1,
+    "credits_remaining": 111,
+    "credits_reset_at": "2023-02-04T06:58:22.000Z"
+  },
+  "search_parameters": {
+    "q": "javascript developer jobs",
+    "location": "Nashville,TN,United States",
+    "google_domain": "google.com",
+    "gl": "us",
+    "hl": "en",
+    "max_page": "5",
+    "num": "100",
+    "output": "json",
+    "engine": "google"
+  },
+  "search_metadata": {
+    "created_at": "2023-01-07T04:36:06.169Z",
+    "processed_at": "2023-01-07T04:36:15.256Z",
+    "total_time_taken": 9.09,
+    "pages": [
+      {
+        "created_at": "2023-01-07T04:36:06.169Z",
+        "processed_at": "2023-01-07T04:36:15.256Z",
+        "total_time_taken": 9.09,
+        "page": 1,
+        "engine_url": "https://www.google.com/search?q=javascript+developer+jobs&gl=us&hl=en&uule=w+CAIQICIaTmFzaHZpbGxlLFROLFVuaXRlZCBTdGF0ZXM&num=100",
+        "html_url": "https://api.scaleserp.com/search?api_key=28F47F91EC22466C923F97098911DB61&q=javascript+developer+jobs&location=Nashville%2CTN%2CUnited+States&google_domain=google.com&gl=us&hl=en&max_page=5&num=100&output=html&engine=google",
+        "json_url": "https://api.scaleserp.com/search?api_key=28F47F91EC22466C923F97098911DB61&q=javascript+developer+jobs&location=Nashville%2CTN%2CUnited+States&google_domain=google.com&gl=us&hl=en&max_page=5&num=100&output=json&engine=google",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Nashville,TN,United States'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'."
+      }
+    ]
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false,
+    "search_tabs": [
+      {
+        "position": 1,
+        "text": "Images",
+        "link": "https://www.google.com/search?q=javascript+developer+jobs&num=100&gl=us&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ_AUoAXoECAEQAw"
+      },
+      {
+        "position": 2,
+        "text": "Videos",
+        "link": "https://www.google.com/search?q=javascript+developer+jobs&num=100&gl=us&hl=en&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ_AUoAnoECAEQBA"
+      },
+      {
+        "position": 3,
+        "text": "Books",
+        "link": "https://www.google.com/search?q=javascript+developer+jobs&num=100&gl=us&hl=en&source=lnms&tbm=bks&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ_AUoA3oECAEQBQ"
+      }
+    ],
+    "total_results": 154000000,
+    "time_taken_displayed": 0.65,
+    "query_displayed": "javascript developer jobs"
+  },
+  "inline_images": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-LnjfKWnQw26lkViAac0zBmkaubENZbLjpxjJfBwZQ&s",
+      "link": "https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/",
+      "title": "Image result for javascript developer jobs",
+      "block_position": 86
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvmnh80NLBS1Tt7-XaCXLhY2rzqeawRY7kUd3A_cC43w&s",
+      "link": "https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/",
+      "title": "Image result for javascript developer jobs",
+      "block_position": 86
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsdlri9fdWwp2CxosszuBVjYdAzDcrnLnD2G7DEwjpw&s",
+      "link": "https://www.toptal.com/javascript/job-description",
+      "title": "Image result for javascript developer jobs",
+      "block_position": 86
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIIiVA-VmViI5QLIVgT2S3r66YTyhFYX_MJobdjJz5w&s",
+      "link": "https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/",
+      "title": "Image result for javascript developer jobs",
+      "block_position": 86
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlL-HcLVLK-M-Uqw-2qKT450xZZJVAwSTiySPbDmnd3A&s",
+      "link": "https://www.udacity.com/blog/2020/07/javascript-developer-is-this-the-job-for-you.html",
+      "title": "Image result for javascript developer jobs",
+      "block_position": 86
+    }
+  ],
+  "inline_image_suggestions": [
+    {
+      "title": "vue js"
+    },
+    {
+      "title": "developer salaries"
+    },
+    {
+      "title": "web developer"
+    },
+    {
+      "title": "front end"
+    },
+    {
+      "title": "node js"
+    },
+    {
+      "title": "job description"
+    },
+    {
+      "title": "average salary"
+    },
+    {
+      "title": "software engineer"
+    },
+    {
+      "title": "programmer salary"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "javascript developer jobs near Nashville, TN",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=javascript+developer+jobs+near+nashville,+tn&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAhAEAE",
+      "type": "standard"
+    },
+    {
+      "query": "javascript developer jobs near Knoxville, TN",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=javascript+developer+jobs+near+knoxville,+tn&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAg-EAE",
+      "type": "standard"
+    },
+    {
+      "query": "junior developer jobs",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=Junior+Developer+jobs&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAg7EAE",
+      "type": "standard"
+    },
+    {
+      "query": "software developer jobs",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=Software+Developer+jobs&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAg1EAE",
+      "type": "standard"
+    },
+    {
+      "query": "junior web developer jobs",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=Junior+Web+Developer+jobs&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAgxEAE",
+      "type": "standard"
+    },
+    {
+      "query": "remote software engineer jobs",
+      "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=Remote+Software+Engineer+Jobs&sa=X&ved=2ahUKEwiT0cKW0bT8AhWq-yoKHQvCBikQ1QJ6BAgwEAE",
+      "type": "standard"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are JavaScript developers in demand?",
+      "answer": "A report by HackerRank, meanwhile, found that the global demand for JavaScript outweighs the expertise available on the market. According to the report, 53.6% of employers worldwide say they need JavaScript skills, yet only 42% of student developers say they are proficient in the language.",
+      "source": {
+        "link": "https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/",
+        "displayed_link": "https://careerfoundry.com › blog › web-development",
+        "title": "The Definitive 2023 JavaScript Developer Salary Guide"
+      },
+      "block_position": 3
+    },
+    {
+      "question": "What does a JavaScript developer do?",
+      "answer": "A JavaScript Developer is a Software Developer who specialises in the design, testing and implementation of software using the JavaScript programming language.",
+      "source": {
+        "link": "https://www.seek.com.au/career-advice/role/javascript-developer",
+        "displayed_link": "https://www.seek.com.au › career-advice › role › javascri...",
+        "title": "How to become a JavaScript Developer - SEEK"
+      },
+      "block_position": 3
+    },
+    {
+      "question": "Can you get a job with just JavaScript?",
+      "answer": "Unfortunately, no. Javascript is not a be-all-end-all route to becoming a developer. It's only a programming language that allows you to develop software to address certain user needs and wants.",
+      "source": {
+        "link": "https://www.frontendplanet.com/can-get-job-with-just-javascript/",
+        "displayed_link": "https://www.frontendplanet.com › can-get-job-with-just-ja...",
+        "title": "Can You Get a Job with Just Javascript? (2022) - Frontend Planet"
+      },
+      "block_position": 3
+    },
+    {
+      "question": "What is salary in JavaScript?",
+      "answer": "Javascript Developer salary in India with less than 1 year of experience to 6 years ranges from ₹ 1.8 Lakhs to ₹ 12 Lakhs with an average annual salary of ₹ 4.3 Lakhs based on 642 latest salaries. Are you underpaid?",
+      "source": {
+        "link": "https://www.ambitionbox.com/profile/javascript-developer-salary",
+        "displayed_link": "https://www.ambitionbox.com › profile › javascript-devel...",
+        "title": "Javascript Developer Salary in India - AmbitionBox"
+      },
+      "search": {
+        "link": "https://www.totaljobs.com/",
+        "title": "There are 78 JavaScript Developer jobs within 10 miles of London available on Totaljobs right now."
+      },
+      "block_position": 3
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Javascript Developer jobs in Nashville, TN - Indeed",
+      "link": "https://www.indeed.com/q-Javascript-Developer-l-Nashville,-TN-jobs.html",
+      "domain": "www.indeed.com",
+      "displayed_link": "https://www.indeed.com › q-Javascript-Developer-l-Nas...",
+      "snippet": "333 Javascript Developer jobs available in Nashville, TN on Indeed.com. Apply to Full Stack Developer, Software Engineer, Web Developer and more!",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer jobs",
+        "Javascript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mMBBr6W6FhcJ:https://www.indeed.com/q-Javascript-Developer-l-Nashville,-TN-jobs.html&cd=1&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Indeed",
+          "description": "Indeed is an American worldwide employment website for job listings launched in November 2004. It is an independent subsidiary of Japan's Recruit Co. Ltd. and is co-headquartered in Austin, Texas, and Stamford, Connecticut, with additional offices around the world."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "nested_results": [
+        {
+          "position": 1,
+          "title": "Find Javascript Developer Jobs with great pay and benefits",
+          "link": "https://www.indeed.com/q-Javascript-Developer-jobs.html",
+          "displayed_link": "https://www.indeed.com › q-Javascript-Developer-jobs",
+          "snippet": "46383 Javascript Developer jobs available on Indeed.com. Apply to Front End Developer, Web Developer, Senior .NET Developer and more!"
+        }
+      ],
+      "block_position": 2,
+      "page": 1,
+      "position_overall": 1
+    },
+    {
+      "position": 2,
+      "title": "171 Javascript Developer jobs in Nashville Metropolitan Area ...",
+      "link": "https://www.linkedin.com/jobs/javascript-developer-jobs-nashville-metropolitan-area",
+      "domain": "www.linkedin.com",
+      "displayed_link": "https://www.linkedin.com › jobs › javascript-developer-jo...",
+      "snippet": "171 Javascript Developer Jobs in Nashville Metropolitan Area (9 new) · API/Full-Stack Software Developer · Adobe Multi-Solutions Developer · Software Developer (UI ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer Jobs",
+        "Javascript Developer Jobs"
+      ],
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/LinkedIn",
+          "description": "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps. Launched on May 5, 2003, owned by Microsoft. The platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 310,
+            "symbol": "$",
+            "currency": {
+              "name": "United States Dollar",
+              "code": "USD",
+              "symbol": "$"
+            }
+          },
+          "extensions": [
+            "310 Javascript Developer Jobs in Tennessee, United States (17 new)",
+            "Web Developer",
+            "Angular Web Developer (C#)",
+            "Full Stack Application Developer",
+            "Senior Full ..."
+          ]
+        }
+      },
+      "nested_results": [
+        {
+          "position": 1,
+          "title": "310 Javascript Developer jobs in Tennessee, United States ...",
+          "link": "https://www.linkedin.com/jobs/javascript-developer-jobs-tennessee",
+          "displayed_link": "https://www.linkedin.com › jobs › javascript-developer-jo...",
+          "snippet": "310 Javascript Developer Jobs in Tennessee, United States (17 new) · Web Developer · Angular Web Developer (C#) · Full Stack Application Developer · Senior Full ..."
+        }
+      ],
+      "block_position": 4,
+      "page": 1,
+      "position_overall": 2
+    },
+    {
+      "position": 3,
+      "title": "Javascript developer Jobs in Nashville, TN, January 2023",
+      "link": "https://www.glassdoor.com/Job/nashville-javascript-developer-jobs-SRCH_IL.0,9_IC1144541_KO10,30.htm",
+      "domain": "www.glassdoor.com",
+      "displayed_link": "https://www.glassdoor.com › Job › nashville-javascript-de...",
+      "snippet": "Search Javascript developer jobs in Nashville, TN with company ratings & salaries. 209 open jobs for Javascript developer in Nashville.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript developer jobs"
+      ],
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Glassdoor",
+          "description": "Glassdoor is an American website where current and former employees anonymously review companies. Headquartered in San Francisco, California, it has additional offices in Chicago, Dublin, London, and São Paulo."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 5,
+      "page": 1,
+      "position_overall": 3
+    },
+    {
+      "position": 4,
+      "title": "20 Best javascript developer jobs in Nashville, TN (Hiring Now!)",
+      "link": "https://www.simplyhired.com/search?q=javascript+developer&l=nashville%2C+tn",
+      "domain": "www.simplyhired.com",
+      "displayed_link": "https://www.simplyhired.com › search › q=javascript+d...",
+      "snippet": "225 javascript developer jobs available in Nashville, TN. See salaries, compare reviews, easily apply, and get hired. New javascript developer careers in ...",
+      "prerender": false,
+      "snippet_matched": [
+        "javascript developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VA8GfUQR3y8J:https://www.simplyhired.com/search%3Fq%3Djavascript%2Bdeveloper%26l%3Dnashville%252C%2Btn&cd=14&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Simply_Hired",
+          "description": "Simply Hired is an employment website utilizing desktop and mobile application for an online recruitment advertising network based in Sunnyvale, California. The company was launched in 2003. In 2016, Recruit Holdings Co., Ltd., purchased Simply Hired."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 6,
+      "page": 1,
+      "position_overall": 4
+    },
+    {
+      "position": 5,
+      "title": "Javascript Developer Jobs in Nashville Tn | Robert Half",
+      "link": "https://www.roberthalf.com/jobs/javascript-developer/nashville-tn",
+      "domain": "www.roberthalf.com",
+      "displayed_link": "https://www.roberthalf.com › Jobs › Javascript-developer",
+      "snippet": "Showing 9 results for javascript developer jobs in nashville tn ; Web Designer · TNContract / Temporary$38.00 - $44.00 / Hourly ; JAVA | J2EE Developer.",
+      "prerender": false,
+      "snippet_matched": [
+        "javascript developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rql1snDh5dkJ:https://www.roberthalf.com/jobs/javascript-developer/nashville-tn&cd=15&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Robert_Half",
+          "description": "Robert Half, formally referred to as Robert Half International Inc., is a global human resource consulting firm based in Menlo Park and San Ramon, California, founded in 1948."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 7,
+      "page": 1,
+      "position_overall": 5
+    },
+    {
+      "position": 6,
+      "title": "Javascript Developer Jobs in Nashville, TN - Apply Now",
+      "link": "https://www.careerbuilder.com/jobs-javascript-developer-in-nashville,tn",
+      "domain": "www.careerbuilder.com",
+      "displayed_link": "https://www.careerbuilder.com › ... › Tennessee",
+      "snippet": "List of Jobs · Today. Wordpress Web Designer / Developer - PHP and Javascript · J Today · 14 days ago. Senior Web Developer (JavaScript- React, Vue, Angular) (100 ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Jobs",
+        "Developer",
+        "Javascript",
+        "Developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PXs1oNF_a6IJ:https://www.careerbuilder.com/jobs-javascript-developer-in-nashville,tn&cd=16&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/CareerBuilder",
+          "description": "CareerBuilder is an employment website founded in 1995 with offices in the United States, Canada, Europe, and Asia. In 2008, it had the largest market share among online employment websites in the United States, where it was founded."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 8,
+      "page": 1,
+      "position_overall": 6
+    },
+    {
+      "position": 7,
+      "title": "Javascript developer jobs in Nashville, US-TN - CareerExplorer",
+      "link": "https://www.careerexplorer.com/careers/javascript-developer/jobs/tennessee/nashville/",
+      "domain": "www.careerexplorer.com",
+      "displayed_link": "https://www.careerexplorer.com › ... › Technology › Jobs",
+      "snippet": "Javascript developer jobs in Nashville, US-TN ; Senior Full Stack Laravel & JavaScript Developer - Remote. Greatscale Ventures ; Jr. - Sr. Software Engineer ( ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z_NGHUtGu5cJ:https://www.careerexplorer.com/careers/javascript-developer/jobs/tennessee/nashville/&cd=17&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "careerexplorer.com was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 9,
+      "page": 1,
+      "position_overall": 7
+    },
+    {
+      "position": 8,
+      "title": "$81k-$146k Javascript Developer Jobs (NOW HIRING)",
+      "link": "https://www.ziprecruiter.com/Jobs/Javascript-Developer",
+      "domain": "www.ziprecruiter.com",
+      "displayed_link": "https://www.ziprecruiter.com › Jobs › Javascript-Develo...",
+      "snippet": "As a JavaScript developer, your main responsibilities are to code functional web applications using the JavaScript (JS) programming language and to patch and ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer",
+        "JavaScript",
+        "JS",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s-IadR2zPo0J:https://www.ziprecruiter.com/Jobs/Javascript-Developer&cd=18&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/ZipRecruiter",
+          "description": "ZipRecruiter is an American employment marketplace for job seekers and employers.The company is headquartered in Santa Monica, California with offices in Tempe, AZ; London, UK and Tel Aviv, Israel."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>programming</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "programming"
+        ]
+      },
+      "block_position": 10,
+      "page": 1,
+      "position_overall": 8
+    },
+    {
+      "position": 9,
+      "title": "Remote Javascript Developer Jobs - Crossover",
+      "link": "https://www.crossover.com/job-roles/javascript-developer",
+      "domain": "www.crossover.com",
+      "displayed_link": "https://www.crossover.com › job-roles › javascript-deve...",
+      "snippet": "Remote Javascript Developer Jobs. Delivering performant web applications require the expertise and skills of a talented Javascript Developer. Meet Sameer.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3L66LisrKZQJ:https://www.crossover.com/job-roles/javascript-developer&cd=19&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "crossover.com was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 11,
+      "page": 1,
+      "position_overall": 9
+    },
+    {
+      "position": 10,
+      "title": "Remote Senior JavaScript Developer Jobs in 2023 - Turing",
+      "link": "https://www.turing.com/jobs/remote-senior-javascript-developer",
+      "domain": "www.turing.com",
+      "displayed_link": "https://www.turing.com › jobs › remote-senior-javascri...",
+      "snippet": "Get a remote senior JavaScript job and connect with the top U.S. companies hiring JavaScript developers. Apply now at Turing Jobs.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript job",
+        "JavaScript developers",
+        "Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Jw0KU-M-sa4J:https://www.turing.com/jobs/remote-senior-javascript-developer&cd=20&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "turing.com was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developers",
+          "job"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "reviews": 566
+          },
+          "extensions": [
+            "Rating: 4.6",
+            "‎566 votes"
+          ]
+        }
+      },
+      "block_position": 12,
+      "page": 1,
+      "position_overall": 10
+    },
+    {
+      "position": 11,
+      "title": "Javascript Jobs",
+      "link": "https://javascript.works-hub.com/javascript-jobs",
+      "domain": "javascript.works-hub.com",
+      "displayed_link": "https://javascript.works-hub.com › javascript-jobs",
+      "snippet": "We found 28 jobs matching 'Javascript Jobs' ; Senior Full Stack Engineer. Taiko Labs, Canada. Taiko Labs ; Front End Developer/UX Designer. Doccla, United ...",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "Javascript Jobs",
+        "Engineer",
+        "Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kop9DAe7CFIJ:https://javascript.works-hub.com/javascript-jobs&cd=21&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "javascript.works-hub.com was first indexed by Google in June 2017",
+            "parsed": 2017
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>engineer</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 13,
+      "page": 1,
+      "position_overall": 11
+    },
+    {
+      "position": 12,
+      "title": "JavaScript Developer Jobs - AngelList",
+      "link": "https://angel.co/role/javascript-developer",
+      "domain": "angel.co",
+      "displayed_link": "https://angel.co › role › javascript-developer",
+      "snippet": "306 results — Find the best JavaScript Developer jobs in January 2023 on Wellfound (formerly AngelList Talent)! Apply to all of them with a single profile and ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P0SuHJ0TW34J:https://angel.co/role/javascript-developer&cd=22&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/AngelList",
+          "description": "AngelList is a U.S. website for startups, angel investors, and job-seekers looking to work at startups. Founded in 2010, it started as an online introduction board for tech startups that needed seed funding. Since 2015, the site allows startups to raise money from angel investors free of charge."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "prefix": "306 results",
+      "block_position": 14,
+      "page": 1,
+      "position_overall": 12
+    },
+    {
+      "position": 13,
+      "title": "Entry level javascript developer remote jobs - Jooble",
+      "link": "https://jooble.org/jobs-entry-level-javascript-developer-remote",
+      "domain": "jooble.org",
+      "displayed_link": "https://jooble.org › jobs-entry-level-javascript-develope...",
+      "snippet": "...with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java ...",
+      "prerender": false,
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6A9huHDAHvcJ:https://jooble.org/jobs-entry-level-javascript-developer-remote&cd=23&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "jooble.org was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 15,
+      "page": 1,
+      "position_overall": 13
+    },
+    {
+      "position": 14,
+      "title": "JavaScript Jobs | Upwork™",
+      "link": "https://www.upwork.com/freelance-jobs/javascript/",
+      "domain": "www.upwork.com",
+      "displayed_link": "https://www.upwork.com › freelance-jobs › javascript",
+      "snippet": "What are the core JavaScript developer job responsibilities? · Optimize components for maximum performance across a vast array of web-capable devices and ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:278LTsbTEEkJ:https://www.upwork.com/freelance-jobs/javascript/&cd=24&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Upwork",
+          "description": "Upwork Global Inc., formerly Elance-oDesk, is an American freelancing platform headquartered in Santa Clara and San Francisco, California. The company was formed in 2013 as Elance-oDesk, after the merger of Elance Inc. and oDesk Corp. The merged company subsequently rebranded to Upwork in 2015."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 16,
+      "page": 1,
+      "position_overall": 14
+    },
+    {
+      "position": 15,
+      "title": "Remote JavaScript Developer Salary - Arc",
+      "link": "https://arc.dev/salaries/javascript-developers",
+      "domain": "arc.dev",
+      "displayed_link": "https://arc.dev › Salaries",
+      "snippet": "Companies hiring remote JavaScript developers right now ; Sigma Software JavaScript remote jobs. Sigma Software. More than 1000 · JavaScript Developer (AdTech ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developers",
+        "JavaScript",
+        "jobs",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:L0MO3PFPuCYJ:https://arc.dev/salaries/javascript-developers&cd=25&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "arc.dev was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>developers</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 17,
+      "page": 1,
+      "position_overall": 15
+    },
+    {
+      "position": 16,
+      "title": "Top 20 JavaScript Developer jobs, Now Hiring | Dice.com",
+      "link": "https://www.dice.com/jobs/q-JavaScript+Developer-jobs",
+      "domain": "www.dice.com",
+      "displayed_link": "https://www.dice.com › jobs › q-JavaScript+Developer-...",
+      "snippet": "Browse 1-20 of 24648 available JavaScript Developer jobs on Dice.com. Apply to Software Engineer, Senior Software Engineer, Java Developer and more.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VmmKRzpDQcwJ:https://www.dice.com/jobs/q-JavaScript%2BDeveloper-jobs&cd=26&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Dice.com",
+          "description": "Dice.com is a career website based in New York City with primary sales and development operations in Urbandale, Iowa and Denver. It serves information technology and engineering professionals, as well as contract and permanent engineering staffing firms. Dice.com is owned by DHI Group, Inc."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 18,
+      "page": 1,
+      "position_overall": 16
+    },
+    {
+      "position": 17,
+      "title": "Freelance Javascript Developer Jobs - EPAM Anywhere",
+      "link": "https://anywhere.epam.com/en/freelance-remote-javascript-developer-jobs",
+      "domain": "anywhere.epam.com",
+      "displayed_link": "https://anywhere.epam.com › freelance-remote-javascri...",
+      "snippet": "Duties of a remote and freelance JavaScript Developer · Implement software concepts to their working concepts: participate in the product development process, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6q45pIsmXsYJ:https://anywhere.epam.com/en/freelance-remote-javascript-developer-jobs&cd=27&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/EPAM_Systems",
+          "description": "EPAM Systems, Inc. is an American company that specializes in service development, digital platform engineering, and digital product design, operating out of Newtown, Pennsylvania."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 19,
+      "page": 1,
+      "position_overall": 17
+    },
+    {
+      "position": 18,
+      "title": "JavaScript Developer Job Description Template | Toptal®",
+      "link": "https://www.toptal.com/javascript/job-description",
+      "domain": "www.toptal.com",
+      "displayed_link": "https://www.toptal.com › Developers › JavaScript",
+      "snippet": "A JavaScript developer is responsible for implementing the front-end logic that defines the behavior of the visual elements of a web application.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3sG4NVntQBsJ:https://www.toptal.com/javascript/job-description&cd=28&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Toptal",
+          "description": "Toptal is a global remote company that provides a freelancing platform, connecting businesses with software engineers, designers, finance experts, product managers, and project managers. The company has no headquarters."
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 20,
+      "page": 1,
+      "position_overall": 18
+    },
+    {
+      "position": 19,
+      "title": "Javascript developer Jobs (with Salaries) - Jan 2023 | JobStreet",
+      "link": "https://www.jobstreet.com.ph/en/job-search/javascript-developer-jobs/",
+      "domain": "www.jobstreet.com.ph",
+      "displayed_link": "https://www.jobstreet.com.ph › job-search › javascript-...",
+      "snippet": "Jobs 1 - 30 of 509 — New Javascript developer Jobs in Philippines available today on JobStreet - Quality Candidates, Quality Employers.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript developer Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qNR1DrQbB6YJ:https://www.jobstreet.com.ph/en/job-search/javascript-developer-jobs/&cd=29&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "jobstreet.com.ph was first indexed by Google more than 10 years ago",
+            "parsed": 10
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "prefix": "Jobs 1 - 30 of 509",
+      "block_position": 21,
+      "page": 1,
+      "position_overall": 19
+    },
+    {
+      "position": 20,
+      "title": "Vue.js jobs – Browse through dozens of Vue.js openings",
+      "link": "https://vuejobs.com/",
+      "domain": "vuejobs.com",
+      "displayed_link": "https://vuejobs.com",
+      "snippet": "Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers.",
+      "prerender": false,
+      "snippet_matched": [
+        "js jobs",
+        "js developer",
+        "js",
+        "developers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NxZBnjNHpzIJ:https://vuejobs.com/&cd=30&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from vuejobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> developer</b> and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>developers</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "developers"
+        ]
+      },
+      "block_position": 22,
+      "page": 1,
+      "position_overall": 20
+    },
+    {
+      "position": 21,
+      "title": "Javascript Developer Jobs in New Zealand, Job Vacancies",
+      "link": "https://www.seek.co.nz/javascript-developer-jobs",
+      "domain": "www.seek.co.nz",
+      "displayed_link": "https://www.seek.co.nz › javascript-developer-jobs",
+      "snippet": "114 jobs · Full Stack Developer · Software Developer (Intermediate / Senior) · Frontend developer (React / Vue) · Front-end Engineer · Digital Developer (JavaScript, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "Developer",
+        "Developer",
+        "developer",
+        "Engineer",
+        "Developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GsYCqNYwmIcJ:https://www.seek.co.nz/javascript-developer-jobs&cd=31&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.seek.co.nz"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "job"
+        ]
+      },
+      "block_position": 23,
+      "page": 1,
+      "position_overall": 21
+    },
+    {
+      "position": 22,
+      "title": "JavaScript Developer - Salary.com",
+      "link": "https://www.salary.com/research/salary/listing/javascript-developer-salary",
+      "domain": "www.salary.com",
+      "displayed_link": "https://www.salary.com › Research",
+      "snippet": "Didn't find your job? ... How much does a JavaScript Developer make in the United States? The average JavaScript Developer salary in the United States is $108,342 ...",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "JavaScript Developer",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:csd34qqzVvwJ:https://www.salary.com/research/salary/listing/javascript-developer-salary&cd=32&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.salary.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 24,
+      "page": 1,
+      "position_overall": 22
+    },
+    {
+      "position": 23,
+      "title": "The Definitive 2023 JavaScript Developer Salary Guide",
+      "link": "https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/",
+      "domain": "careerfoundry.com",
+      "displayed_link": "https://careerfoundry.com › blog › web-development",
+      "snippet": "Essentially, they are responsible for implementing the frontend logic that defines how the visual elements of a web app behave. Typically these developers work ...",
+      "prerender": false,
+      "snippet_matched": [
+        "developers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LDeee6qWTukJ:https://careerfoundry.com/en/blog/web-development/javascript-developer-salary-guide/&cd=33&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from careerfoundry.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>developers</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 25,
+      "page": 1,
+      "position_overall": 23
+    },
+    {
+      "position": 24,
+      "title": "JavaScript Developer Job Description - Betterteam",
+      "link": "https://www.betterteam.com/javascript-developer-job-description",
+      "domain": "www.betterteam.com",
+      "displayed_link": "https://www.betterteam.com › javascript-developer-job-...",
+      "snippet": "A JavaScript developer is responsible for completing the design of applications and software using Java programming language. JavaScript developers work ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer",
+        "programming",
+        "JavaScript developers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:F9mLNran9ZkJ:https://www.betterteam.com/javascript-developer-job-description&cd=34&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.betterteam.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b>, <b>programming</b>, and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developers",
+          "programming",
+          "job"
+        ]
+      },
+      "block_position": 26,
+      "page": 1,
+      "position_overall": 24
+    },
+    {
+      "position": 25,
+      "title": "Javascript Developer Jobs In Delhi Ncr - Naukri.com",
+      "link": "https://www.naukri.com/javascript-developer-jobs-in-delhi-ncr",
+      "domain": "www.naukri.com",
+      "displayed_link": "https://www.naukri.com › javascript-developer-jobs-in-...",
+      "snippet": "Javascript Developer Jobs In Delhi Ncr ... Good analytical and logical skills HTML5, CSS3, AJAX, DOM, JSON, XML experienceExperien... ... 4 plus years of ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m5d-LDNYf6cJ:https://www.naukri.com/javascript-developer-jobs-in-delhi-ncr&cd=35&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.naukri.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 27,
+      "page": 1,
+      "position_overall": 25
+    },
+    {
+      "position": 26,
+      "title": "Javascript Developer Jobs | Reed.co.uk",
+      "link": "https://www.reed.co.uk/jobs/javascript-developer-jobs",
+      "domain": "www.reed.co.uk",
+      "displayed_link": "https://www.reed.co.uk › jobs › javascript-developer-jobs",
+      "snippet": "Jobs 1 - 25 of 1950 — Find Javascript Developer jobs with Reed.co.uk. Discover Javascript Developer vacancies on offer, across the UK, helping you ❤ Mondays.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FrQJugs6e28J:https://www.reed.co.uk/jobs/javascript-developer-jobs&cd=36&hl=en&ct=clnk&gl=us",
+      "faq": [
+        {
+          "question": "What is the average salary of javascript developer jobs?",
+          "answer": "Use Reed.co.uk's average salary checker to find out what you could be earning."
+        },
+        {
+          "question": "How can I be the first to find out when there are new javascript developer jobs on Reed.co.uk?",
+          "answer": "Creating job alerts will help you keep up-to-date with the latest javascript developer opportunities. Sign in or register to set them up today."
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.reed.co.uk"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "prefix": "Jobs 1 - 25 of 1950",
+      "block_position": 28,
+      "page": 1,
+      "position_overall": 26
+    },
+    {
+      "position": 27,
+      "title": "Remote JavaScript Jobs with great benefits and pay",
+      "link": "https://remoteok.com/remote-javascript-jobs",
+      "domain": "remoteok.com",
+      "displayed_link": "https://remoteok.com › remote-javascript-jobs",
+      "snippet": "Browse 20+ Remote JavaScript Jobs in January 2023 at companies like Braintrust, Re7 and Bullhorn, Inc. with salaries from $40000/year to $120000/year ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jYSoEhh2XdAJ:https://remoteok.com/remote-javascript-jobs&cd=37&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from remoteok.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 7449
+          },
+          "extensions": [
+            "Rating: 4.5",
+            "‎7,449 reviews"
+          ]
+        }
+      },
+      "block_position": 29,
+      "page": 1,
+      "position_overall": 27
+    },
+    {
+      "position": 28,
+      "title": "JavaScript Developer: Is This the Job for You? - Udacity",
+      "link": "https://www.udacity.com/blog/2020/07/javascript-developer-is-this-the-job-for-you.html",
+      "domain": "www.udacity.com",
+      "displayed_link": "https://www.udacity.com › blog › 2020/07 › javascript-...",
+      "snippet": "Jul 13, 2020 — A JavaScript developer is responsible for building the visual elements and behavior of a website. Essentially, they merge the art of design with ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eGpNVrE6jEUJ:https://www.udacity.com/blog/2020/07/javascript-developer-is-this-the-job-for-you.html&cd=38&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.udacity.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "date": "Jul 13, 2020",
+      "date_utc": "2020-07-13T00:00:00.000Z",
+      "block_position": 30,
+      "page": 1,
+      "position_overall": 28
+    },
+    {
+      "position": 29,
+      "title": "How I landed my first Javascript Development Job and got 6 ...",
+      "link": "https://ilovecoding.org/blog/6-figure-developer-job",
+      "domain": "ilovecoding.org",
+      "displayed_link": "https://ilovecoding.org › blog › 6-figure-developer-job",
+      "snippet": "I hired and fired a few developers trying to maximize my return on investment. Funds were running out, and I didn't have a stable developer working for the ...",
+      "prerender": false,
+      "snippet_matched": [
+        "developers",
+        "developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KFKGokqLoOoJ:https://ilovecoding.org/blog/6-figure-developer-job&cd=39&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from ilovecoding.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developers",
+          "job"
+        ]
+      },
+      "block_position": 31,
+      "page": 1,
+      "position_overall": 29
+    },
+    {
+      "position": 30,
+      "title": "JavaScript Developer job description template | TalentLyft",
+      "link": "https://www.talentlyft.com/en/resources/javascript-developer-job-description",
+      "domain": "www.talentlyft.com",
+      "displayed_link": "https://www.talentlyft.com › resources › javascript-deve...",
+      "snippet": "JavaScript Developer is responsible for the programming and development of applications and software using the popular programming language, Java. In order to ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer",
+        "programming",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qMoYQ9CiNY8J:https://www.talentlyft.com/en/resources/javascript-developer-job-description&cd=40&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.talentlyft.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> programming</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "programming",
+          "job"
+        ]
+      },
+      "block_position": 32,
+      "page": 1,
+      "position_overall": 30
+    },
+    {
+      "position": 31,
+      "title": "369 JavaScript Developer jobs in Germany - GermanTechJobs",
+      "link": "https://germantechjobs.de/en/jobs/JavaScript/all",
+      "domain": "germantechjobs.de",
+      "displayed_link": "https://germantechjobs.de › jobs › JavaScript › all",
+      "snippet": "369 JavaScript (React, Vue, Angular, Node) jobs in Germany · Frontend Engineer m/w/d job in Darmstadt · Senior Frontend Software Engineer (f/m/d) job in Erfurt.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "jobs",
+        "Engineer",
+        "job",
+        "Engineer",
+        "job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wEUf60hPzCUJ:https://germantechjobs.de/en/jobs/JavaScript/all&cd=41&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from germantechjobs.de"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "job"
+        ]
+      },
+      "block_position": 33,
+      "page": 1,
+      "position_overall": 31
+    },
+    {
+      "position": 32,
+      "title": "JavaScript Developer jobs in South Africa - Pnet",
+      "link": "https://www.pnet.co.za/jobs/javascript-developer",
+      "domain": "www.pnet.co.za",
+      "displayed_link": "https://www.pnet.co.za › jobs › javascript-developer",
+      "snippet": "JavaScript Developer Jobs at Pnet. Search for your JavaScript Developer Job and love your next job.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer Jobs",
+        "JavaScript Developer Job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m4NSKU4PAhYJ:https://www.pnet.co.za/jobs/javascript-developer&cd=42&hl=en&ct=clnk&gl=us",
+      "faq": [
+        {
+          "question": "Which industry do JavaScript Developer jobs belong to?",
+          "answer": "JavaScript Developer jobs are part of the IT industry."
+        },
+        {
+          "question": "How many temporary and part-time JavaScript Developer jobs are available?",
+          "answer": "There are 0 temporary JavaScript Developer jobs and 37 part-time JavaScript Developer jobs available at the moment."
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.pnet.co.za"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {},
+          "extensions": [
+            "Which industry do JavaScript Developer jobs belong to?How many temporary and part",
+            "time JavaScript Developer jobs are available?"
+          ]
+        }
+      },
+      "block_position": 34,
+      "page": 1,
+      "position_overall": 32
+    },
+    {
+      "position": 33,
+      "title": "157 JavaScript Developer jobs in Switzerland - SwissDevJobs",
+      "link": "https://swissdevjobs.ch/jobs/JavaScript/all",
+      "domain": "swissdevjobs.ch",
+      "displayed_link": "https://swissdevjobs.ch › jobs › JavaScript › all",
+      "snippet": "157 JavaScript (React, Vue, Angular, Node) jobs in Switzerland · Senior Frontend Developer, 80 – 100 % (m/w/d) job · Front-End Developer job in Lausanne · Senior ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "Developer job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eVVRsdwioy8J:https://swissdevjobs.ch/jobs/JavaScript/all&cd=43&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from swissdevjobs.ch"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 35,
+      "page": 1,
+      "position_overall": 33
+    },
+    {
+      "position": 34,
+      "title": "Web Developer Jobs in Nashville, TN (Hiring Now!) - Zippia",
+      "link": "https://www.zippia.com/web-developer-nashville-tn-jobs/",
+      "domain": "www.zippia.com",
+      "displayed_link": "https://www.zippia.com › ... › Locations › Nashville, TN",
+      "snippet": "Senior Web Developer (JavaScript- React, Vue, Angular) (100% Remote) - Contract to hire. Conexess Group. Senior Web Developer Job, Remote or Nashville, TN.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "Developer Job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Vl4btTEXerQJ:https://www.zippia.com/web-developer-nashville-tn-jobs/&cd=44&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.zippia.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result is relevant for searches near <span>Nashville, Tennessee</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 36,
+      "page": 1,
+      "position_overall": 34
+    },
+    {
+      "position": 35,
+      "title": "Javascript Developer Jobs in Egypt - WUZZUF",
+      "link": "https://wuzzuf.net/a/Javascript-Developer-Jobs-in-Egypt",
+      "domain": "wuzzuf.net",
+      "displayed_link": "https://wuzzuf.net › Javascript-Developer-Jobs-in-Egypt",
+      "snippet": "Javascript Developer Jobs in Egypt399 Jobs found · Frontend Developer · Software Developer · Angular Front-End ·.NET Full Stack · UX- UI designer (using XD.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer Jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LO2q3EshQD8J:https://wuzzuf.net/a/Javascript-Developer-Jobs-in-Egypt&cd=45&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from wuzzuf.net"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 37,
+      "page": 1,
+      "position_overall": 35
+    },
+    {
+      "position": 36,
+      "title": "JavaScript Developer Jobs in London in January 2023",
+      "link": "https://www.totaljobs.com/jobs/javascript-developer/in-london",
+      "domain": "www.totaljobs.com",
+      "displayed_link": "https://www.totaljobs.com › Jobs › London",
+      "snippet": "78 JavaScript Developer jobs in London on totaljobs. Get instant job matches for companies hiring now for JavaScript Developer jobs in London like Node ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer jobs",
+        "JavaScript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2sSoGVu9TzwJ:https://www.totaljobs.com/jobs/javascript-developer/in-london&cd=46&hl=en&ct=clnk&gl=us",
+      "faq": [
+        {
+          "question": "Which industry do JavaScript Developer jobs in London belong to?",
+          "answer": "JavaScript Developer jobs in London are part of the IT industry."
+        },
+        {
+          "question": "How many JavaScript Developer jobs are there in London?",
+          "answer": "There are 78 JavaScript Developer jobs within 10 miles of London available on Totaljobs right now."
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.totaljobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 38,
+      "page": 1,
+      "position_overall": 36
+    },
+    {
+      "position": 37,
+      "title": "50 JavaScript Developer jobs - CWJobs",
+      "link": "https://www.cwjobs.co.uk/jobs/javascript-developer",
+      "domain": "www.cwjobs.co.uk",
+      "displayed_link": "https://www.cwjobs.co.uk › jobs › javascript-developer",
+      "snippet": "50 JavaScript Developer jobs and careers on CWJobs. Find and apply today for the latest JavaScript Developer jobs like Lead React Developer, React Native ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer jobs",
+        "JavaScript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QI_r2Qs_FO4J:https://www.cwjobs.co.uk/jobs/javascript-developer&cd=47&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.cwjobs.co.uk"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 39,
+      "page": 1,
+      "position_overall": 37
+    },
+    {
+      "position": 38,
+      "title": "Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs",
+      "link": "https://web3.career/",
+      "domain": "web3.career",
+      "displayed_link": "https://web3.career",
+      "snippet": "Job Position and CompanyLocationPostedApplyCommunity Growth Manager · PopooRemote1d agoApplyGrowth Hacking Lead · PopooRemote1d agoApplyTokenomics Lead · PopooRemote1d agoApplyView 60 more rows",
+      "prerender": false,
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:potATvbwhA8J:https://web3.career/&cd=48&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from web3.career",
+            "parsed": 3
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 40,
+      "page": 1,
+      "position_overall": 38
+    },
+    {
+      "position": 39,
+      "title": "JavaScript Developer Jobs und Stellenangebote - StepStone",
+      "link": "https://www.stepstone.de/jobs/javascript-developer",
+      "domain": "www.stepstone.de",
+      "displayed_link": "https://www.stepstone.de › jobs › jav...",
+      "snippet": "Das Durchschnitsgehalt für JavaScript Developer liegt bei 41.400 €. Gehälter für JavaScript Developer liegen im Bereich zwischen 36.700 € und 51.800 €. Häufig ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e7c3O2_WqvIJ:https://www.stepstone.de/jobs/javascript-developer&cd=49&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.stepstone.de"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "This result seems relevant, even though it’s not in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 41,
+      "page": 1,
+      "position_overall": 39
+    },
+    {
+      "position": 40,
+      "title": "Search Jobs - Google Careers",
+      "link": "https://careers.google.com/jobs/",
+      "domain": "careers.google.com",
+      "displayed_link": "https://careers.google.com › jobs",
+      "snippet": "Search, find and apply to job opportunities at Google. Bring your insight, imagination ... Systems Development Engineer, Google Global Networking - Thornton.",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "Engineer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dbDMWNMb1AsJ:https://careers.google.com/jobs/&cd=50&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from careers.google.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "job"
+        ]
+      },
+      "block_position": 42,
+      "page": 1,
+      "position_overall": 40
+    },
+    {
+      "position": 41,
+      "title": "Full Stack Java Developer with React JS, Spring Boot ...",
+      "link": "https://jobs.smartrecruiters.com/BmtechGroup/743999690155897-full-stack-java-developer-with-react-js-spring-boot-spring-react",
+      "domain": "jobs.smartrecruiters.com",
+      "displayed_link": "https://jobs.smartrecruiters.com › BmtechGroup › 7439...",
+      "snippet": "Job Description · Working with the architects and development lead, documents and develops best practices for development, and deployment of applications, and ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Urd2YnuQJt8J:https://jobs.smartrecruiters.com/BmtechGroup/743999690155897-full-stack-java-developer-with-react-js-spring-boot-spring-react&cd=51&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from jobs.smartrecruiters.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "block_position": 43,
+      "page": 1,
+      "position_overall": 41
+    },
+    {
+      "position": 42,
+      "title": "Junior Frontend Developer Job in London | Sedition Art",
+      "link": "https://devitjobs.uk/jobs/Sedition-Art-Junior-Frontend-Developer",
+      "domain": "devitjobs.uk",
+      "displayed_link": "https://devitjobs.uk › jobs › Sedition-Art-Junior-Fronte...",
+      "snippet": "Exposure to React JS with TypeScript Good in JavaScript, HTML, CSS Ability to write clean, high-performance and reusable code Good communication skills ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JS",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2Gn2L6qFUnsJ:https://devitjobs.uk/jobs/Sedition-Art-Junior-Frontend-Developer&cd=52&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from devitjobs.uk"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "block_position": 44,
+      "page": 1,
+      "position_overall": 42
+    },
+    {
+      "position": 43,
+      "title": "How Long Does it Take to Learn React JS? - Skillcrush",
+      "link": "https://skillcrush.com/blog/how-long-does-it-take-to-learn-react-js/",
+      "domain": "skillcrush.com",
+      "displayed_link": "https://skillcrush.com › ... › Languages and Tools",
+      "snippet": "ReactJs is one of the most common “nice to haves” on job descriptions, ... According to Jesse DeOms, JavaScript Developer and the JS subject matter expert ...",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "JavaScript Developer",
+        "JS"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JTmEAAqJD5wJ:https://skillcrush.com/blog/how-long-does-it-take-to-learn-react-js/&cd=53&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from skillcrush.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "block_position": 45,
+      "page": 1,
+      "position_overall": 43
+    },
+    {
+      "position": 44,
+      "title": "LaraJobs: The Official Laravel Job Board",
+      "link": "https://larajobs.com/",
+      "domain": "larajobs.com",
+      "displayed_link": "https://larajobs.com",
+      "snippet": "We've hired 10 Laravel developers in the last few years, all thanks to LaraJobs. ... email of all new jobs ... Full-stack Laravel / Inertia.js Developer.",
+      "prerender": false,
+      "snippet_matched": [
+        "developers",
+        "jobs",
+        "js Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cX9j2Tf91hgJ:https://larajobs.com/&cd=54&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from larajobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b>, <b>developers</b>, and <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "developers",
+          "job"
+        ]
+      },
+      "block_position": 46,
+      "page": 1,
+      "position_overall": 44
+    },
+    {
+      "position": 45,
+      "title": "Remote jobs - Clevertech",
+      "link": "https://clevertech.biz/remote-jobs",
+      "domain": "clevertech.biz",
+      "displayed_link": "https://clevertech.biz › remote-jobs",
+      "snippet": "Scale up your tech career, from anywhere ... Senior Full Stack Engineer - Javascript ... Explore other jobs based on skills, roles or designation ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "Engineer",
+        "Javascript",
+        "jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q0rBV23iwY0J:https://clevertech.biz/remote-jobs&cd=55&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from clevertech.biz"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "career"
+        ]
+      },
+      "block_position": 47,
+      "page": 1,
+      "position_overall": 45
+    },
+    {
+      "position": 46,
+      "title": "Interview with Senior JS Developer - YouTube",
+      "link": "https://www.youtube.com/watch?v=Uo3cL4nrGOk",
+      "domain": "www.youtube.com",
+      "displayed_link": "https://www.youtube.com › watch",
+      "prerender": false,
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.youtube.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>programming</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "js",
+          "programming"
+        ]
+      },
+      "thumbnail": true,
+      "thumbnail_image": "https://i.ytimg.com/vi/Uo3cL4nrGOk/mqdefault.jpg?sqp=-oaymwEFCLIBEGQ&rs=AMzJL3nEg2lIZJ3myJ4GOVaDe2-bXssx3g",
+      "block_position": 48,
+      "page": 1,
+      "position_overall": 46
+    },
+    {
+      "position": 47,
+      "title": "Javascript Developer Jobs January 2023 on Irishjobs",
+      "link": "https://www.irishjobs.ie/Javascript-Developer-Jobs",
+      "domain": "www.irishjobs.ie",
+      "displayed_link": "https://www.irishjobs.ie › Javascript-Developer-Jobs",
+      "snippet": "Find and apply for Javascript Developer jobs on irishjobs.ie.",
+      "prerender": false,
+      "snippet_matched": [
+        "Javascript Developer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:25-1JlZYQMUJ:https://www.irishjobs.ie/Javascript-Developer-Jobs&cd=57&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.irishjobs.ie"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 49,
+      "page": 1,
+      "position_overall": 47
+    },
+    {
+      "position": 48,
+      "title": "Remote Full-Stack Programming Jobs",
+      "link": "https://weworkremotely.com/categories/remote-full-stack-programming-jobs",
+      "domain": "weworkremotely.com",
+      "displayed_link": "https://weworkremotely.com › categories › remote-full-...",
+      "snippet": "The latest remote full-stack programming jobs from top remote companies! ... Backend Javascript / Node.js Developer - Remote/SaaS (m/f/d) Dec 20",
+      "prerender": false,
+      "snippet_matched": [
+        "programming jobs",
+        "Javascript",
+        "js"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NpQ3-skRXF8J:https://weworkremotely.com/categories/remote-full-stack-programming-jobs&cd=58&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from weworkremotely.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>programming</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "programming"
+        ]
+      },
+      "block_position": 50,
+      "page": 1,
+      "position_overall": 48
+    },
+    {
+      "position": 49,
+      "title": "Node JS Developer Cover Letter - Velvet Jobs",
+      "link": "https://www.velvetjobs.com/cover-letters/node-js-developer",
+      "domain": "www.velvetjobs.com",
+      "displayed_link": "https://www.velvetjobs.com › cover-letters › node-js-de...",
+      "snippet": "Node JS developer responsible for oversight and direction for implementation of front-end solutions from all development teams and third-party agencies. UI ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JS developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dPP9tBu1xZ4J:https://www.velvetjobs.com/cover-letters/node-js-developer&cd=59&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.velvetjobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>js</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 165
+          },
+          "extensions": [
+            "Rating: 4.5",
+            "‎165 reviews"
+          ]
+        }
+      },
+      "block_position": 51,
+      "page": 1,
+      "position_overall": 49
+    },
+    {
+      "position": 50,
+      "title": "Software & Web Developer Jobs - Philippines | Facebook",
+      "link": "https://www.facebook.com/groups/242195756207498/",
+      "domain": "www.facebook.com",
+      "displayed_link": "https://www.facebook.com › Facebook Groups",
+      "snippet": "Developer Jobs - Philippines. 󱙺. Public group ... Feel free to use this group for posting IT related job ... Familiarity with JavaScript frameworks such as",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer Jobs",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zrXtZ6kKJiQJ:https://www.facebook.com/groups/242195756207498/&cd=60&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.facebook.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 52,
+      "page": 1,
+      "position_overall": 50
+    },
+    {
+      "position": 51,
+      "title": "Learn to code for free & get hired in 5 months [Full Guide + PDF]",
+      "link": "https://zerotomastery.io/blog/learn-to-code-for-free/",
+      "domain": "zerotomastery.io",
+      "displayed_link": "https://zerotomastery.io › blog › learn-to-code-for-free",
+      "snippet": "5 steps · 5 min",
+      "prerender": false,
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_SM8KnZhX_UJ:https://zerotomastery.io/blog/learn-to-code-for-free/&cd=61&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from zerotomastery.io"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 53,
+      "page": 1,
+      "position_overall": 51
+    },
+    {
+      "position": 52,
+      "title": "Java Developer Jobs - Remote Work From Home & Online",
+      "link": "https://www.flexjobs.com/remote-jobs/java-developer",
+      "domain": "www.flexjobs.com",
+      "displayed_link": "https://www.flexjobs.com › remote-jobs › java-developer",
+      "snippet": "Java Developer needed for a remote position. Experience with a Front-End Language such as: JavaScript; Angular, or React experience. SpringBoot experience, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cTCHaAEuADYJ:https://www.flexjobs.com/remote-jobs/java-developer&cd=62&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.flexjobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 54,
+      "page": 1,
+      "position_overall": 52
+    },
+    {
+      "position": 53,
+      "title": "Learn to Code — For Free — Coding Courses for Busy People",
+      "link": "https://www.freecodecamp.org/",
+      "domain": "www.freecodecamp.org",
+      "displayed_link": "https://www.freecodecamp.org",
+      "snippet": "\"freeCodeCamp was the gateway to my career as a software developer. The well-structured curriculum took ... \"I've always struggled with learning JavaScript.",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xKIpw1Fso80J:https://www.freecodecamp.org/&cd=63&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.freecodecamp.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 55,
+      "page": 1,
+      "position_overall": 53
+    },
+    {
+      "position": 54,
+      "title": "The Frontend Developer Career Path - Scrimba.com",
+      "link": "https://scrimba.com/learn/frontend",
+      "domain": "scrimba.com",
+      "displayed_link": "https://scrimba.com › learn › frontend",
+      "snippet": "All modules are filled with interactive coding challenges to ensure that you don't fall off the wagon. You'll learn HTML, CSS, JavaScript, React, UI design, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript"
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from scrimba.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ]
+      },
+      "block_position": 56,
+      "page": 1,
+      "position_overall": 54
+    },
+    {
+      "position": 55,
+      "title": "Solidity Developer Jobs - Cryptocurrency Jobs",
+      "link": "https://cryptocurrencyjobs.co/solidity/",
+      "domain": "cryptocurrencyjobs.co",
+      "displayed_link": "https://cryptocurrencyjobs.co › solidity",
+      "snippet": "Find the best solidity developer jobs at startups that use blockchain technology. ... Post a job Find a job ... Senior Backend Developer, Node.js / Express.",
+      "prerender": false,
+      "snippet_matched": [
+        "developer jobs",
+        "js"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2HLfrlxJG1UJ:https://cryptocurrencyjobs.co/solidity/&cd=65&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from cryptocurrencyjobs.co"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>js</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 57,
+      "page": 1,
+      "position_overall": 55
+    },
+    {
+      "position": 56,
+      "title": "Job Vacancies in Kerala | Technopark Job Openings",
+      "link": "https://www.technopark.org/job-search",
+      "domain": "www.technopark.org",
+      "displayed_link": "https://www.technopark.org › job-search",
+      "snippet": "Job TitleCompanyClosing DateBusiness AnalystFeathersoft Info Solutions Pvt. Ltd.13/02/2023Power BI DeveloperLean Transitions Solutions13/01/2023PHP DeveloperLean Transitions Solutions13/01/2023View 362 more rows",
+      "prerender": false,
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TjlKGZUzZ-QJ:https://www.technopark.org/job-search&cd=66&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.technopark.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "block_position": 58,
+      "page": 1,
+      "position_overall": 56
+    },
+    {
+      "position": 57,
+      "title": "Relocate.me | Find Developer Jobs, IT Jobs Abroad",
+      "link": "https://relocate.me/",
+      "domain": "relocate.me",
+      "displayed_link": "https://relocate.me",
+      "snippet": "Browse hundreds of IT jobs with relocation and/or visa support provided. That ideal developer job abroad may be a click away on Relocate.me. Apply today!",
+      "prerender": false,
+      "snippet_matched": [
+        "developer job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2By7o-5tUtgJ:https://relocate.me/&cd=67&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from relocate.me"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> developer</b> and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 59,
+      "page": 1,
+      "position_overall": 57
+    },
+    {
+      "position": 58,
+      "title": "Frontend Developer Jobs in Bangalore (Bengaluru) - Cutshort",
+      "link": "https://cutshort.io/jobs/frontend-developer-jobs-in-bangalore-bengaluru",
+      "domain": "cutshort.io",
+      "displayed_link": "https://cutshort.io › jobs › frontend-developer-jobs-in-ban...",
+      "snippet": "Explore the latest Frontend Developer Job opportunities across top companies like ... Hands-on with contemporary javascript frameworks (React js Angular js)",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer Job",
+        "javascript",
+        "js",
+        "js"
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from cutshort.io"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "block_position": 60,
+      "page": 1,
+      "position_overall": 58
+    },
+    {
+      "position": 59,
+      "title": "Front-End Engineer | Codecademy",
+      "link": "https://www.codecademy.com/learn/paths/front-end-engineer-career-path",
+      "domain": "www.codecademy.com",
+      "displayed_link": "https://www.codecademy.com › learn › paths › front-en...",
+      "snippet": "By the end, you'll have the portfolio and interview skills you need to start your new career. Try It For Free. 350 Hours. Includes. HTML, CSS, JavaScript, Front ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cJgd_k2TO8UJ:https://www.codecademy.com/learn/paths/front-end-engineer-career-path&cd=69&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.codecademy.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "engineer",
+          "career"
+        ]
+      },
+      "block_position": 61,
+      "page": 1,
+      "position_overall": 59
+    },
+    {
+      "position": 60,
+      "title": "Top 50+ Node.js Interview Questions and Answers for 2023",
+      "link": "https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions",
+      "domain": "www.simplilearn.com",
+      "displayed_link": "https://www.simplilearn.com › ... › Node.js Tutorial",
+      "snippet": "Dec 16, 2022 — Prepare yourself to crack Node.js developer interviews with these ... If you are preparing for a career change and have an upcoming job ...",
+      "prerender": false,
+      "snippet_matched": [
+        "js developer",
+        "career",
+        "job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rfTv5vCvH0sJ:https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions&cd=70&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.simplilearn.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b>, <b>career</b>, and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "js",
+          "career",
+          "job"
+        ]
+      },
+      "date": "Dec 16, 2022",
+      "date_utc": "2022-12-16T00:00:00.000Z",
+      "block_position": 62,
+      "page": 1,
+      "position_overall": 60
+    },
+    {
+      "position": 61,
+      "title": "All Jobs | Atlassian",
+      "link": "https://www.atlassian.com/company/careers/all-jobs",
+      "domain": "www.atlassian.com",
+      "displayed_link": "https://www.atlassian.com › company › careers › all-jobs",
+      "snippet": "Engineering ; Senior Software Engineer- Ecosystem Discover, Bengaluru or Remote ; Developer Support Manager, Ecosystem, Bengaluru or Remote ; Manager- SRE, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Engineer",
+        "Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eFwRlm2D-pMJ:https://www.atlassian.com/company/careers/all-jobs&cd=71&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.atlassian.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> developer</b> and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>engineer</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 63,
+      "page": 1,
+      "position_overall": 61
+    },
+    {
+      "position": 62,
+      "title": "Junior/middle JS Developer** at ModuleWorks - Djinni",
+      "link": "https://djinni.co/jobs/511250--junior-middle-js-developer-/",
+      "domain": "djinni.co",
+      "displayed_link": "https://djinni.co › jobs › 511250--junior-middle-js-deve...",
+      "snippet": "3 days ago — **Junior/middle JS Developer** ... As a contractor, you would be responsible for developing WebUI for our next-generation shopfloor programming ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JS Developer",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nMlf3mwu0YQJ:https://djinni.co/jobs/511250--junior-middle-js-developer-/&cd=72&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from djinni.co"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>programming</b>",
+          "This result was published or updated <span>recently</span>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "programming"
+        ]
+      },
+      "date": "3 days ago",
+      "date_utc": "2023-01-04T04:36:13.894Z",
+      "block_position": 64,
+      "page": 1,
+      "position_overall": 62
+    },
+    {
+      "position": 63,
+      "title": "11 Jobs You Can Realistically Get if You Learn JavaScript",
+      "link": "https://www.becomebetterprogrammer.com/11-jobs-you-can-realistically-get-if-you-learn-javascript/",
+      "domain": "www.becomebetterprogrammer.com",
+      "displayed_link": "https://www.becomebetterprogrammer.com › 11-jobs-y...",
+      "snippet": "May 4, 2022 — Web Developer · Mobile App Developer · Front-End Web Developer · Back-End Web Developer · Full Stack Web Developer · JavaScript Developer · Software ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer",
+        "Developer",
+        "Developer",
+        "Developer",
+        "Developer",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YBPL7kd6LwIJ:https://www.becomebetterprogrammer.com/11-jobs-you-can-realistically-get-if-you-learn-javascript/&cd=73&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.becomebetterprogrammer.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "date": "May 4, 2022",
+      "date_utc": "2022-05-04T00:00:00.000Z",
+      "block_position": 65,
+      "page": 1,
+      "position_overall": 63
+    },
+    {
+      "position": 64,
+      "title": "Top 10 Online Courses to become a FullStack Web Developer ...",
+      "link": "https://medium.com/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232",
+      "domain": "medium.com",
+      "displayed_link": "https://medium.com › javarevisited › top-10-online-cou...",
+      "snippet": "There is no doubt that Web Development is a very exciting career and ... JavaScript is probably the most important thing for any web developer and this ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "JavaScript",
+        "developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gNoYJVNmnG4J:https://medium.com/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232&cd=74&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from medium.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 66,
+      "page": 1,
+      "position_overall": 64
+    },
+    {
+      "position": 65,
+      "title": "Explore Remote talent jobs and work with Silicon valley ...",
+      "link": "https://talent.remotebase.com/",
+      "domain": "talent.remotebase.com",
+      "displayed_link": "https://talent.remotebase.com",
+      "snippet": "Full Stack Engineer · At least 2 years of experience · Skills in JavaScript, CSS and HTML · Proficiency in multiple programming languages · Excellent database ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Engineer",
+        "JavaScript",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4Y9xoEnLJ78J:https://talent.remotebase.com/&cd=75&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from talent.remotebase.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>programming</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "programming"
+        ]
+      },
+      "block_position": 67,
+      "page": 1,
+      "position_overall": 65
+    },
+    {
+      "position": 66,
+      "title": "Top 10 Front End Developer Skills You Need to Know | Edureka",
+      "link": "https://www.edureka.co/blog/front-end-developer-skills",
+      "domain": "www.edureka.co",
+      "displayed_link": "https://www.edureka.co › blog › front-end-developer-s...",
+      "snippet": "Mar 28, 2022 — If you have a look at the current job listings for front end ... Another important tool for a front end developer is JavaScript (JS).",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "developer",
+        "JavaScript",
+        "JS"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8vHI6V-QN3sJ:https://www.edureka.co/blog/front-end-developer-skills&cd=76&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.edureka.co"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "job"
+        ]
+      },
+      "date": "Mar 28, 2022",
+      "date_utc": "2022-03-28T00:00:00.000Z",
+      "block_position": 68,
+      "page": 1,
+      "position_overall": 66
+    },
+    {
+      "position": 67,
+      "title": "IBM Full Stack Software Developer Professional Certificate",
+      "link": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+      "domain": "www.coursera.org",
+      "displayed_link": "https://www.coursera.org › ... › Cloud Computing",
+      "snippet": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects involving HTML, JavaScript, Node.js ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "JavaScript",
+        "js"
+      ],
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.coursera.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b> and <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "career"
+        ]
+      },
+      "block_position": 69,
+      "page": 1,
+      "position_overall": 67
+    },
+    {
+      "position": 68,
+      "title": "How To Become a Front-End Developer - W3Schools",
+      "link": "https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp",
+      "domain": "www.w3schools.com",
+      "displayed_link": "https://www.w3schools.com › howto › howto_blog_bec...",
+      "snippet": "It is a popular job, and everyone can become a Front-End Developer. ... HTML, CSS, and JavaScript are the basic languages you need to know to create a ...",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "Developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QO_LNVafwsgJ:https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp&cd=78&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.w3schools.com",
+            "parsed": 3
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ]
+      },
+      "block_position": 70,
+      "page": 1,
+      "position_overall": 68
+    },
+    {
+      "position": 69,
+      "title": "7 Full-Stack Developer Resume Examples for 2022 - BeamJobs",
+      "link": "https://www.beamjobs.com/resumes/full-stack-developer-resume-examples",
+      "domain": "www.beamjobs.com",
+      "displayed_link": "https://www.beamjobs.com › resumes › full-stack-devel...",
+      "snippet": "Oct 22, 2022 — Growing your entry-level or senior JavaScript, Python career? Our full-stack developer resume samples can help you get interviews in 2022.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "career",
+        "developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UM3yHsPiI18J:https://www.beamjobs.com/resumes/full-stack-developer-resume-examples&cd=79&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.beamjobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "date": "Oct 22, 2022",
+      "date_utc": "2022-10-22T00:00:00.000Z",
+      "block_position": 71,
+      "page": 1,
+      "position_overall": 69
+    },
+    {
+      "position": 70,
+      "title": "JavaScript Developer: Job Description & Career Info",
+      "link": "https://bestaccreditedcolleges.org/articles/java-developer-job-description-and-info-about-a-career-as-a-javascript-developer.html",
+      "domain": "bestaccreditedcolleges.org",
+      "displayed_link": "https://bestaccreditedcolleges.org › articles › java-devel...",
+      "snippet": "Oct 20, 2021 — JavaScript developers program using this scripting language to improve, modify and upgrade the designs and functionalities of websites as ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YGiy-bEXUSgJ:https://bestaccreditedcolleges.org/articles/java-developer-job-description-and-info-about-a-career-as-a-javascript-developer.html&cd=80&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from bestaccreditedcolleges.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b>, <b>career</b>, and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developers",
+          "career",
+          "job"
+        ]
+      },
+      "date": "Oct 20, 2021",
+      "date_utc": "2021-10-20T00:00:00.000Z",
+      "block_position": 72,
+      "page": 1,
+      "position_overall": 70
+    },
+    {
+      "position": 71,
+      "title": "Application Software Developer Career Overview",
+      "link": "https://www.computerscience.org/careers/software-developer/",
+      "domain": "www.computerscience.org",
+      "displayed_link": "https://www.computerscience.org › careers › software-d...",
+      "snippet": "Research education requirements, career opportunities, average salaries, ... JavaScript: JavaScript is a high-level, interpreted programming language ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "JavaScript",
+        "JavaScript",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g4hGiH7UJq0J:https://www.computerscience.org/careers/software-developer/&cd=81&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.computerscience.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> programming</b> and <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "programming",
+          "career"
+        ]
+      },
+      "block_position": 73,
+      "page": 1,
+      "position_overall": 71
+    },
+    {
+      "position": 72,
+      "title": "4 Day Work Week Jobs",
+      "link": "https://4dayweek.io/",
+      "domain": "4dayweek.io",
+      "displayed_link": "https://4dayweek.io",
+      "snippet": "The place to find jobs with a better work-life balance. For software engineers, product managers ... Find a 4 day week job. ... Software Engineer - Frontend.",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "job",
+        "Engineer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7Y4rSZTfgXYJ:https://4dayweek.io/&cd=82&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from 4dayweek.io",
+            "parsed": 4
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "job"
+        ]
+      },
+      "block_position": 74,
+      "page": 1,
+      "position_overall": 72
+    },
+    {
+      "position": 73,
+      "title": "How to Find & Hire Javascript Developers in 2021 - CodinGame",
+      "link": "https://www.codingame.com/work/blog/find-developers/how-to-find-hire-javascript-developers/",
+      "domain": "www.codingame.com",
+      "displayed_link": "https://www.codingame.com › work › blog › how-to-fi...",
+      "snippet": "Nov 9, 2020 — The definition of a JavaScript developer is a software programmer who writes front-end website code as well as server-side code for any computer ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer",
+        "programmer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CHirjY-RHU8J:https://www.codingame.com/work/blog/find-developers/how-to-find-hire-javascript-developers/&cd=83&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.codingame.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b> and <b>programmer</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "developers",
+          "programmer"
+        ]
+      },
+      "date": "Nov 9, 2020",
+      "date_utc": "2020-11-09T00:00:00.000Z",
+      "block_position": 75,
+      "page": 1,
+      "position_overall": 73
+    },
+    {
+      "position": 74,
+      "title": "Developer jobs in Munich, Germany - WeAreDevelopers",
+      "link": "https://www.wearedevelopers.com/en/jobs/l/germany/munich",
+      "domain": "www.wearedevelopers.com",
+      "displayed_link": "https://www.wearedevelopers.com › jobs › munich",
+      "snippet": "Currently you can find 228 jobs that match your search for developer vacancies in Munich. In Munich you'll find numerous jobs including Java, JavaScript, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "developer",
+        "jobs",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iTn0DvHxW3kJ:https://www.wearedevelopers.com/en/jobs/l/germany/munich&cd=84&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.wearedevelopers.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 76,
+      "page": 1,
+      "position_overall": 74
+    },
+    {
+      "position": 75,
+      "title": "All junior frontend developer jobs in canada - Workopolis",
+      "link": "https://www.workopolis.com/jobsearch/junior-frontend-developer-jobs/canada",
+      "domain": "www.workopolis.com",
+      "displayed_link": "https://www.workopolis.com › jobsearch › canada",
+      "snippet": "Experience with JavaScript and a front-end development framework. Solid understanding of object-oriented programming. Familiarity with an SQL database.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GqsODKeK940J:https://www.workopolis.com/jobsearch/junior-frontend-developer-jobs/canada&cd=85&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.workopolis.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>programming</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 77,
+      "page": 1,
+      "position_overall": 75
+    },
+    {
+      "position": 76,
+      "title": "Front End Developer Skills You Must Have - InterviewBit",
+      "link": "https://www.interviewbit.com/blog/front-end-developer-skills/",
+      "domain": "www.interviewbit.com",
+      "displayed_link": "https://www.interviewbit.com › InterviewBit › Skills",
+      "snippet": "Nov 23, 2021 — Python, Ruby, Node.js, and Java are some of the most popular backend programming ... If you're pursuing a career as a Front-End Developer, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "js",
+        "programming",
+        "career",
+        "Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BWLi19aKPJQJ:https://www.interviewbit.com/blog/front-end-developer-skills/&cd=86&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.interviewbit.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b>, <b>programming</b>, and <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "js",
+          "programming",
+          "career"
+        ]
+      },
+      "date": "Nov 23, 2021",
+      "date_utc": "2021-11-23T00:00:00.000Z",
+      "block_position": 78,
+      "page": 1,
+      "position_overall": 76
+    },
+    {
+      "position": 77,
+      "title": "Work with us - Contentful",
+      "link": "https://www.contentful.com/careers/",
+      "domain": "www.contentful.com",
+      "displayed_link": "https://www.contentful.com › careers",
+      "snippet": "See open positions, learn about our people and culture, and consider a career at Contentful. ... Senior Fullstack Engineer (JavaScript, React, Node.js).",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "Engineer",
+        "JavaScript",
+        "js"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2hW8j0-I9p4J:https://www.contentful.com/careers/&cd=87&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.contentful.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> js</b>, <b>engineer</b>, and <b>career</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ],
+        "related_terms": [
+          "js",
+          "engineer",
+          "career"
+        ]
+      },
+      "block_position": 79,
+      "page": 1,
+      "position_overall": 77
+    },
+    {
+      "position": 78,
+      "title": "What Is the Average Full-Stack Developer's Salary? Fresh ...",
+      "link": "https://kinsta.com/blog/full-stack-developers-salary/",
+      "domain": "kinsta.com",
+      "displayed_link": "https://kinsta.com › ... › Blog › Web Developer Salary",
+      "snippet": "Dec 22, 2022 — But like all developer jobs, becoming an expert is much more ... CSS, and Javascript at minimum, and possibly Javascript libraries like ...",
+      "prerender": false,
+      "snippet_matched": [
+        "developer jobs",
+        "Javascript",
+        "Javascript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JJRRMq3QReoJ:https://kinsta.com/blog/full-stack-developers-salary/&cd=88&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from kinsta.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developer's</b> and <b>developers</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developer's",
+          "developers"
+        ]
+      },
+      "date": "Dec 22, 2022",
+      "date_utc": "2022-12-22T00:00:00.000Z",
+      "block_position": 80,
+      "page": 1,
+      "position_overall": 78
+    },
+    {
+      "position": 79,
+      "title": "Senior React JS Developer Salary in India - AmbitionBox",
+      "link": "https://www.ambitionbox.com/profile/senior-react-js-developer-salary",
+      "domain": "www.ambitionbox.com",
+      "displayed_link": "https://www.ambitionbox.com › profile › senior-react-js...",
+      "snippet": "Average Senior React JS Developer Salary , India is ₹ 10.0 Lakhs per year by ... Skills. Jobs demanding the skill. 1. Javascript. View jobs. 2. React.Js.",
+      "prerender": false,
+      "snippet_matched": [
+        "JS Developer",
+        "Jobs",
+        "Javascript",
+        "jobs",
+        "Js"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5lSjr1c3R5wJ:https://www.ambitionbox.com/profile/senior-react-js-developer-salary&cd=89&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.ambitionbox.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>js</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 81,
+      "page": 1,
+      "position_overall": 79
+    },
+    {
+      "position": 80,
+      "title": "Creating and managing transcoding jobs in MediaConvert",
+      "link": "https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/emc-examples-jobs.html",
+      "domain": "docs.aws.amazon.com",
+      "displayed_link": "https://docs.aws.amazon.com › emc-examples-jobs",
+      "snippet": "AWS SDK for JavaScript. Developer Guide for SDK Version 3. What's the AWS SDK for JavaScript? Getting started.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript",
+        "Developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZQgcPXLXBFUJ:https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/emc-examples-jobs.html&cd=90&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from docs.aws.amazon.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 82,
+      "page": 1,
+      "position_overall": 80
+    },
+    {
+      "position": 81,
+      "title": "Find and Hire Developers for Startups — Lemon.io — Top 1 ...",
+      "link": "https://lemon.io/",
+      "domain": "lemon.io",
+      "displayed_link": "https://lemon.io",
+      "snippet": "— ponder startup owners. Hence the trend. Let's now enumerate some clear benefits of remote software engineer jobs for employers and employees. Developers' ...",
+      "prerender": false,
+      "snippet_matched": [
+        "engineer jobs"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ktv-gBRChkUJ:https://lemon.io/&cd=91&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from lemon.io"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developers</b> and <b>engineer</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developers",
+          "engineer"
+        ]
+      },
+      "block_position": 83,
+      "page": 1,
+      "position_overall": 81
+    },
+    {
+      "position": 82,
+      "title": "JavaScript Developer Salary [Global Market Research]",
+      "link": "https://alcor-bpo.com/recruitment-news/average-javascript-developer-salary-worldwide/",
+      "domain": "alcor-bpo.com",
+      "displayed_link": "https://alcor-bpo.com › recruitment-news › average-jav...",
+      "snippet": "May 13, 2022 — According to Developer Nation, in Q3 2021 there were approximately 16.5M developers who used JavaScript. The soaring popularity and relative ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer",
+        "developers",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZQNARKtX6psJ:https://alcor-bpo.com/recruitment-news/average-javascript-developer-salary-worldwide/&cd=92&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from alcor-bpo.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "A <span>term</span> related to your search appears in the result: <b>developers</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 7
+          },
+          "extensions": [
+            "Rating: 5",
+            "‎7 votes",
+            "Rating: 5",
+            "‎7 votes"
+          ],
+          "attributes": [
+            {
+              "name": "Gross annual income, USD",
+              "value": "South America"
+            }
+          ],
+          "attributes_flat": "Gross annual income, USD: South America"
+        }
+      },
+      "date": "May 13, 2022",
+      "date_utc": "2022-05-13T00:00:00.000Z",
+      "block_position": 84,
+      "page": 1,
+      "position_overall": 82
+    },
+    {
+      "position": 83,
+      "title": "Student Software Developer Job Description",
+      "link": "https://thehub.stanford.edu/about-hub/jobs/student-software-developer-job-description",
+      "domain": "thehub.stanford.edu",
+      "displayed_link": "https://thehub.stanford.edu › about-hub › jobs › student...",
+      "snippet": "Candidates should also have some experience in HTML, JavaScript, CSS, and general web design. General qualifications: Familiarity with the Stanford computing ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vne7inXiecgJ:https://thehub.stanford.edu/about-hub/jobs/student-software-developer-job-description&cd=93&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from thehub.stanford.edu"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 85,
+      "page": 1,
+      "position_overall": 83
+    },
+    {
+      "position": 84,
+      "title": "java developer salaries",
+      "link": "https://senseion.de/java-developer-salaries.html",
+      "domain": "senseion.de",
+      "displayed_link": "https://senseion.de › java-developer-salaries",
+      "snippet": "Software Developer Engineer jobs in California. ... Other Java-related job salaries include: Javascript developer salary $90,864. Salary estimates are based ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Engineer jobs",
+        "Javascript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3o5gOzPyv0YJ:https://senseion.de/java-developer-salaries.html&cd=104&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from senseion.de"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>engineer</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 87,
+      "page": 1,
+      "position_overall": 84
+    },
+    {
+      "position": 85,
+      "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "link": "https://www.udemy.com/course/the-complete-javascript-course/",
+      "domain": "www.udemy.com",
+      "displayed_link": "https://www.udemy.com › ... › JavaScript",
+      "snippet": "Become an advanced, confident, and modern JavaScript developer from ... Become job-ready by understanding how JavaScript really works behind the scenes.",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript developer",
+        "job",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TaReOKObsaQJ:https://www.udemy.com/course/the-complete-javascript-course/&cd=105&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.udemy.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 88,
+      "page": 1,
+      "position_overall": 85
+    },
+    {
+      "position": 86,
+      "title": "How to Become a Web Developer - SNHU",
+      "link": "https://www.snhu.edu/about-us/newsroom/stem/how-to-become-a-web-developer",
+      "domain": "www.snhu.edu",
+      "displayed_link": "https://www.snhu.edu › about-us › newsroom › stem",
+      "snippet": "Feb 15, 2021 — Before you learn web design and start a career in development, ... Commerce Front-End Developer and Magento Commerce JavaScript Developer.",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "Developer",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SUwyzrMVbO4J:https://www.snhu.edu/about-us/newsroom/stem/how-to-become-a-web-developer&cd=106&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.snhu.edu"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "date": "Feb 15, 2021",
+      "date_utc": "2021-02-15T00:00:00.000Z",
+      "block_position": 89,
+      "page": 1,
+      "position_overall": 86
+    },
+    {
+      "position": 87,
+      "title": "leeds \"west yorkshire\" - JobServe - Find your next job",
+      "link": "https://www.jobserve.com/gb/en/JobSearch.aspx?jobid=DBA06D82A2053B11F9&src=06A5C02AE9BD928352",
+      "domain": "www.jobserve.com",
+      "displayed_link": "https://www.jobserve.com › JobSearch › jobid=DBA06...",
+      "snippet": "8 jobs found for DEVELOPER or JAVASCRIPT or NODE or REACT in LEEDS \"WEST YORKSHIRE\". JavaScript Developer (React & Node) £400 - £450 per day Leeds Contract ...",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "DEVELOPER",
+        "JAVASCRIPT",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GnIVkpeIJ_cJ:https://www.jobserve.com/gb/en/JobSearch.aspx%3Fjobid%3DDBA06D82A2053B11F9%26src%3D06A5C02AE9BD928352&cd=107&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.jobserve.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 90,
+      "page": 1,
+      "position_overall": 87
+    },
+    {
+      "position": 88,
+      "title": "Hire a Freelance Developer for Programming Jobs - Fiverr",
+      "link": "https://www.fiverr.com/categories/programming-tech",
+      "domain": "www.fiverr.com",
+      "displayed_link": "https://www.fiverr.com › categories › programming-tech",
+      "snippet": "Affordable Freelance Programming & Tech Services. Hire a freelance web developer expert services today and get your programming projects done within 24hr.",
+      "prerender": false,
+      "snippet_matched": [
+        "Programming",
+        "developer",
+        "programming"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-HnDZKKId4wJ:https://www.fiverr.com/categories/programming-tech&cd=108&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.fiverr.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>programming</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 91,
+      "page": 1,
+      "position_overall": 88
+    },
+    {
+      "position": 89,
+      "title": "How to Prepare for Amazon Software Development ...",
+      "link": "https://www.geeksforgeeks.org/how-to-prepare-for-amazon-software-development-engineering-interview/",
+      "domain": "www.geeksforgeeks.org",
+      "displayed_link": "https://www.geeksforgeeks.org › how-to-prepare-for-a...",
+      "snippet": "Sep 7, 2022 — There is no doubt that this one is a must-have skill to apply for the job of SDE or software engineer role in Amazon or any other big tech ...",
+      "prerender": false,
+      "snippet_matched": [
+        "job",
+        "engineer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N-PzcIL77yMJ:https://www.geeksforgeeks.org/how-to-prepare-for-amazon-software-development-engineering-interview/&cd=109&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.geeksforgeeks.org"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "engineer",
+          "job"
+        ]
+      },
+      "date": "Sep 7, 2022",
+      "date_utc": "2022-09-07T00:00:00.000Z",
+      "block_position": 92,
+      "page": 1,
+      "position_overall": 89
+    },
+    {
+      "position": 90,
+      "title": "19 Essential Full Stack Developer Skills [2023 Guide]",
+      "link": "https://www.springboard.com/blog/software-engineering/full-stack-developer-skills/",
+      "domain": "www.springboard.com",
+      "displayed_link": "https://www.springboard.com › Blog › Coding",
+      "snippet": "Nov 1, 2021 — Interested in a career as a full stack developer but unsure of the ... ReactJS is an open-source frontend JavaScript library that is used ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career",
+        "developer",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JNE4rN9AuRgJ:https://www.springboard.com/blog/software-engineering/full-stack-developer-skills/&cd=110&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.springboard.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "date": "Nov 1, 2021",
+      "date_utc": "2021-11-01T00:00:00.000Z",
+      "block_position": 93,
+      "page": 1,
+      "position_overall": 90
+    },
+    {
+      "position": 91,
+      "title": "Front End Developer Jobs in Chennai by SBCS India Pvt Ltd",
+      "link": "https://www.placementindia.com/job-detail/front-end-developer-jobs-in-chennai-for-sbcs-india-pvt-ltd-1121759.htm",
+      "domain": "www.placementindia.com",
+      "displayed_link": "https://www.placementindia.com › job-detail › front-en...",
+      "snippet": "Job Apply for Front End Developer(Job ID PI 1121759) by SBCS India Pvt Ltd in Chennai ... Expertise in XML, JavaScript, JQuery, CSS, bootstrap, and XHTML",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer",
+        "Job",
+        "JavaScript"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6rLyNIyzSNMJ:https://www.placementindia.com/job-detail/front-end-developer-jobs-in-chennai-for-sbcs-india-pvt-ltd-1121759.htm&cd=111&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.placementindia.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 94,
+      "page": 1,
+      "position_overall": 91
+    },
+    {
+      "position": 92,
+      "title": "Search Jobs - Netflix Jobs",
+      "link": "https://jobs.netflix.com/search",
+      "domain": "jobs.netflix.com",
+      "displayed_link": "https://jobs.netflix.com › search",
+      "snippet": "Senior Game Programmer (New game) - Games Studio. Helsinki, Finland. Next Games ... Software Engineer (L4/L5) - Audio Algorithms. Remote, United States.",
+      "prerender": false,
+      "snippet_matched": [
+        "Programmer",
+        "Engineer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xD-2lhPymMcJ:https://jobs.netflix.com/search&cd=112&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from jobs.netflix.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "This <span>search term</span> appears in the result: <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> engineer</b> and <b>programmer</b>",
+          "Other websites with your search terms <span>link</span> to this result",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "related_terms": [
+          "engineer",
+          "programmer"
+        ]
+      },
+      "block_position": 95,
+      "page": 1,
+      "position_overall": 92
+    },
+    {
+      "position": 93,
+      "title": "Web Developer Jobs - HigherEdJobs",
+      "link": "https://www.higheredjobs.com/admin/search.cfm?JobCat=160",
+      "domain": "www.higheredjobs.com",
+      "displayed_link": "https://www.higheredjobs.com › admin › search › JobC...",
+      "snippet": "Results 1 - 25 of 194 — Search 194 Web Developer positions at colleges and universities on HigherEdJobs.com. Updated daily. Free to job seekers.",
+      "prerender": false,
+      "snippet_matched": [
+        "Developer",
+        "job"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZS-_ToaWGiQJ:https://www.higheredjobs.com/admin/search.cfm%3FJobCat%3D160&cd=113&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.higheredjobs.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> developer</b> and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>job</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from <span>the United States</span>"
+        ],
+        "search_terms": [
+          "developer",
+          "jobs"
+        ]
+      },
+      "prefix": "Results 1 - 25 of 194",
+      "block_position": 96,
+      "page": 1,
+      "position_overall": 93
+    },
+    {
+      "position": 94,
+      "title": "Braintrust | The First User-Owned Talent Network",
+      "link": "https://www.usebraintrust.com/",
+      "domain": "www.usebraintrust.com",
+      "displayed_link": "https://www.usebraintrust.com",
+      "snippet": "world's best jobs. Your work. Your network. Your future. ... Access jobs with the world's leading enterprises. ... Full Stack JavaScript Developer.",
+      "prerender": false,
+      "snippet_matched": [
+        "jobs",
+        "jobs",
+        "JavaScript Developer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zqYXAWs5kCEJ:https://www.usebraintrust.com/&cd=114&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.usebraintrust.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "block_position": 97,
+      "page": 1,
+      "position_overall": 94
+    },
+    {
+      "position": 95,
+      "title": "25 Web Developer Portfolio Examples to Take Inspiration From",
+      "link": "https://www.hostinger.com/tutorials/web-developer-portfolio",
+      "domain": "www.hostinger.com",
+      "displayed_link": "https://www.hostinger.com › tutorials › web-developer-...",
+      "snippet": "3 days ago — Since a web developer's main job is creating websites and ... Adenekan is an experienced JavaScript engineer and UX designer with impressive ...",
+      "prerender": false,
+      "snippet_matched": [
+        "developer's",
+        "job",
+        "JavaScript engineer"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u_z0U3URV3sJ:https://www.hostinger.com/tutorials/web-developer-portfolio&cd=115&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from www.hostinger.com"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "<span>Terms</span> related to your search appear in the result: <b> developer's</b>, <b>developers</b>, <b>engineer</b>, and <b>job</b>",
+          "This result was published or updated <span>recently</span>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ],
+        "related_terms": [
+          "developer's",
+          "developers",
+          "engineer",
+          "job"
+        ]
+      },
+      "date": "3 days ago",
+      "date_utc": "2023-01-04T04:36:14.317Z",
+      "block_position": 98,
+      "page": 1,
+      "position_overall": 95
+    },
+    {
+      "position": 96,
+      "title": "167 вакансій в категорії Front End - Вакансії | DOU",
+      "link": "https://jobs.dou.ua/vacancies/?category=Front%20End",
+      "domain": "jobs.dou.ua",
+      "displayed_link": "https://jobs.dou.ua › vacancies",
+      "snippet": "Intern JavaScript Developer (TypeScript, React, Node.js) — індивідуальне стажування в SysGears Дніпро. Необхідні навички: Впевнені знання алгоритмів, ...",
+      "prerender": false,
+      "snippet_matched": [
+        "JavaScript Developer",
+        "js"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Be6c2CxpEzkJ:https://jobs.dou.ua/vacancies/%3Fcategory%3DFront%2520End&cd=116&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from jobs.dou.ua"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b>, <b>developer</b>, and <b>jobs</b>",
+          "A <span>term</span> related to your search appears in the result: <b>js</b>",
+          "This result seems relevant, even though it’s not in <span>English</span>",
+          "This result seems relevant for this search, even though it typically appears for searches outside <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer",
+          "jobs"
+        ]
+      },
+      "prefix": "Intern JavaScript Developer (TypeScript, React, Node.js)",
+      "block_position": 99,
+      "page": 1,
+      "position_overall": 96
+    },
+    {
+      "position": 97,
+      "title": "Learn to become a modern node.js developer - Roadmap.sh",
+      "link": "https://roadmap.sh/nodejs",
+      "domain": "roadmap.sh",
+      "displayed_link": "https://roadmap.sh › nodejs",
+      "snippet": "Community created roadmaps, articles, resources and journeys to help you choose your path and grow in your career. © roadmap.sh·FAQs·Terms·Privacy. The leading ...",
+      "prerender": false,
+      "snippet_matched": [
+        "career"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_AWa5_2OMRoJ:https://roadmap.sh/nodejs&cd=117&hl=en&ct=clnk&gl=us",
+      "about_this_result": {
+        "source": {
+          "first_indexed": {
+            "raw": "This result comes from roadmap.sh"
+          }
+        },
+        "connection_secure": {
+          "raw": "Your connection to this site is <b>secure</b>",
+          "parsed": true
+        },
+        "your_search_and_this_result": [
+          "These <span>search terms</span> appear in the result: <b> javascript</b> and <b>developer</b>",
+          "A <span>term</span> related to your search appears in the result: <b>career</b>",
+          "The result is in <span>English</span>",
+          "This result seems relevant for searches from many regions, including <span>the United States</span>"
+        ],
+        "search_terms": [
+          "javascript",
+          "developer"
+        ]
+      },
+      "block_position": 100,
+      "page": 1,
+      "position_overall": 97
+    }
+  ]
+}
