@@ -11,7 +11,7 @@ const LOCAL_PATH = process.env.LOCAL_PATH;
 const getJobsData = async () => {
   try {
     const url =
-      "https://www.google.com/search?q=javascript+developer+in+nashville&ibp=htl;jobs&hl=en";
+      "https://www.google.com/search?q=remote+javascript+developer+in+nashville&ibp=htl;jobs&hl=en";
 
     const response = await unirest.get(url).headers({
       "User-Agent":
@@ -130,7 +130,7 @@ getJobsData();
 // ================== CRON SCHEDULER ====================== ||
 // ======================================================== //
 
-cron.schedule("0 */2 * * *", getJobsData, {
+cron.schedule("0 */6 * * *", getJobsData, {
   scheduled: true,
   timezone: "America/Chicago",
 });
