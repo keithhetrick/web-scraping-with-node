@@ -75,7 +75,7 @@ const getJobsData = async () => {
     const file_Path = `${LOCAL_PATH}/`;
 
     // sanitize file name
-    const full_FileName = file_Path + file_Name.replace(/:/g, "-");
+    const full_FileName = file_Path + file_Name.replace(/:/g, ".");
 
     console.log("FULL FILE NAME: ", full_FileName);
 
