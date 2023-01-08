@@ -58,41 +58,53 @@ const getJobsData = async () => {
     // create PDF file
     const doc = new PDFDocument();
 
-    const file_Name = `dailyJobScraper-${new Date().getTime()}.pdf`;
-    const file_Path = LOCAL_PATH;
+    // dont show the time zone while using Date() in the file name
+    const date = new Date().toLocaleDateString("en-us", {
+      weekday: "long",
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    });
+
+    const time = new Date().toLocaleTimeString([], {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+
+    const file_Name = `Daily Job Scraper - ${date} - ${time}.pdf`;
+    const file_Path = `${LOCAL_PATH}/`;
 
     // sanitize file name
-    const full_FileName = (file_Path + file_Name)
-      .replace(/:/g, "-")
-      .replace(/,/g, "-")
-      .replace(/ /g, "-");
+    const full_FileName = file_Path + file_Name.replace(/:/g, "-");
+
+    console.log("FULL FILE NAME: ", full_FileName);
 
     doc.pipe(fs.createWriteStream(full_FileName));
-    doc.fontSize(20).text("Google Jobs Results", {
+    doc.fontSize(18).text("Google Jobs Results", {
       align: "center",
     });
-    doc.fontSize(12).text(`${new Date().toLocaleString()}`, {
+    doc.fontSize(9).text(`${new Date().toLocaleString()}`, {
       align: "center",
     });
 
     jobs_results.forEach((job) => {
-      doc.fontSize(18).text(`\n Title: ${job.title}`, {
+      doc.fontSize(12).text(`\n Title: ${job.title}`, {
         align: "left",
         width: 500,
       });
-      doc.fontSize(15).text(`Company Name: ${job.company_name}`, {
+      doc.fontSize(12).text(`Company Name: ${job.company_name}`, {
         align: "left",
         width: 500,
       });
-      doc.fontSize(15).text(`Location: ${job.location}`, {
+      doc.fontSize(12).text(`Location: ${job.location}`, {
         align: "left",
         width: 500,
       });
-      doc.fontSize(15).text(`Via: ${job.via}`, {
+      doc.fontSize(12).text(`Via: ${job.via}`, {
         align: "left",
         width: 500,
       });
-      doc.fontSize(15).text(`Extensions: ${job.extensions}`, {
+      doc.fontSize(12).text(`Extensions: ${job.extensions}`, {
         align: "left",
         width: 500,
       });
@@ -118,7 +130,7 @@ getJobsData();
 // ================== CRON SCHEDULER ====================== ||
 // ======================================================== //
 
-cron.schedule("0 8 * * *", getJobsData, {
+cron.schedule("0 */2 * * *", getJobsData, {
   scheduled: true,
   timezone: "America/Chicago",
 });
